@@ -1,3 +1,5 @@
+"""SMIL"""
+
 # poor solution, but I don't know re or regex yet
 smiles = (":)", ";)", ":-)", ";-)")
 s = input()

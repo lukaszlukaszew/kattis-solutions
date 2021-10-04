@@ -1,8 +1,10 @@
-x = 1
+"""Ninety-nine"""
 
-while x < 99:
-    print(x)
-    x = int(input())
-    x += min(3 - (x % 3), 2)
+X = 1
+
+while X < 99:
+    print(X)
+    X = int(input())
+    X += min(3 - (X % 3), 2)
 
 print(99)

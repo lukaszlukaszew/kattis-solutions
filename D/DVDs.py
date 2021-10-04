@@ -1,3 +1,5 @@
+"""DVDs"""
+
 from sys import stdin
 
 k = int(stdin.readline())
@@ -7,11 +9,10 @@ for i in range(k):
     counter, current = 0, 1
     dvds = list(map(int, stdin.readline().rstrip().split()))
 
-    for i in range(n):
-        if dvds[i] == current:
-            current += 1
-            continue
-        else:
+    for j in range(n):
+        if dvds[j] != current:
             counter += 1
+        else:
+            current += 1
 
     print(counter)

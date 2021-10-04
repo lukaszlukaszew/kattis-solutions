@@ -1,3 +1,5 @@
+"""Association for Computing Machinery"""
+
 N, ind = [int(x) for x in input().split()]
 times = [int(x) for x in input().split()]
 
@@ -20,4 +22,4 @@ if times[ind] <= 300:
         counter += 1
         times.pop(0)
 
-print(counter, penalty+time)
+print(counter, penalty + time)
