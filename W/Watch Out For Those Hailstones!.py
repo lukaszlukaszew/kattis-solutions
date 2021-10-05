@@ -2,7 +2,6 @@
 
 
 def func(num):
-    result = None
     if num == 1:
         result = 1
     elif num % 2:
