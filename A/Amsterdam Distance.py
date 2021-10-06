@@ -5,7 +5,7 @@ from math import pi
 pie_slices, rings, radius = [float(x) for x in input().split()]
 ax, ay, bx, by = [int(x) for x in input().split()]
 
-posibilities = list()
+posibilities = []
 
 for i in range(int(rings + 1)):
     y = (abs(ay - i) + abs(by - i)) * (radius / rings)

@@ -4,7 +4,7 @@ test_cases = int(input())
 
 for j in range(test_cases):
     an, sl, tl = input().split()
-    stats = list()
+    stats = []
     number_dec = 0
 
     for i in range(len(an)):
