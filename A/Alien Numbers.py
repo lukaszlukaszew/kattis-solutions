@@ -7,7 +7,7 @@ for j in range(test_cases):
     stats = []
     number_dec = 0
 
-    for i in range(len(an)):
+    for i, n in enumerate(an):
         number_dec += sl.index(an[i]) * (len(sl) ** (len(an) - i - 1))
 
     result = ""
