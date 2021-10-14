@@ -2,10 +2,10 @@
 
 from sys import stdin
 
-points_count = int(input())
+points_count = int(stdin.readline())
 
 while points_count:
-    points = list()
+    points = []
 
     for i in range(points_count):
         points.append([int(x) for x in stdin.readline().split()])
@@ -21,4 +21,4 @@ while points_count:
 
     print(Stan, Ollie)
 
-    points_count = int(input())
+    points_count = int(stdin.readline())
