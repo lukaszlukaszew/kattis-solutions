@@ -9,7 +9,7 @@ while distance < height:
 
     if distance >= height:
         break
-    else:
-        distance -= fall
+
+    distance -= fall
 
 print(counter)
