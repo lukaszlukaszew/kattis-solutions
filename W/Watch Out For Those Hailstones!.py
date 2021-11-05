@@ -2,6 +2,7 @@
 
 
 def func(num):
+    """Formula for Hailstones!"""
     if num == 1:
         result = 1
     elif num % 2:
