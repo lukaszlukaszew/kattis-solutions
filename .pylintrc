@@ -560,4 +560,5 @@ overgeneral-exceptions=BaseException,
 
 disable=C0103,
         W0123,
-        R0801
+        R0801,
+        W0640
