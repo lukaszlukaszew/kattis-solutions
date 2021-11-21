@@ -486,7 +486,7 @@ max-args=5
 max-attributes=7
 
 # Maximum number of boolean expressions in an if statement (see R0916).
-max-bool-expr=5
+max-bool-expr=10
 
 # Maximum number of branch for function / method body.
 max-branches=12
@@ -561,4 +561,5 @@ overgeneral-exceptions=BaseException,
 disable=C0103,
         W0123,
         R0801,
-        W0640
+        W0640,
+        R0916
