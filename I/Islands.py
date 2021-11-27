@@ -5,6 +5,7 @@ picture, islands = [], 0
 
 
 def change(x, y, pic):
+    """Process picture"""
     pic[y][x] = "W"
 
     for m in (-1, 0, 1):
