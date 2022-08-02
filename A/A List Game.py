@@ -1,5 +1,7 @@
 """A List Game"""
 
+# listgame
+
 from math import sqrt
 
 X = int(input())

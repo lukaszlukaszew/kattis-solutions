@@ -1,5 +1,7 @@
 """A Rational Sequence (Take 3)"""
 
+# rationalsequence3
+
 
 def sequence(position):
     """Produce sequence of needed to get to desired position"""
@@ -13,7 +15,7 @@ def sequence(position):
     right = left_outer
     middle = int((left + right) / 2)
 
-    for k in range(level):
+    for _ in range(level):
         if position > middle:
             jumps += "R"
             left = middle

@@ -1,5 +1,7 @@
 """2048"""
 
+# 2048
+
 
 def prepare_board(b, m):
     """Switch board to make move or produce result"""

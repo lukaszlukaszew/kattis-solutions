@@ -1,5 +1,7 @@
 """Aaah!"""
 
+# aaah
+
 a = input()
 b = input()
 

@@ -1,5 +1,7 @@
 """A Rational Sequence 2"""
 
+# rationalsequence2
+
 test_cases = int(input())
 
 for i in range(test_cases):

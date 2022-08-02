@@ -1,6 +1,6 @@
-# pylint: disable-msg=W0123
-
 """4 thoughts"""
+
+# 4thought
 
 operators = ["+", "-", "*", "//"]
 possibilities = []

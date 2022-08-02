@@ -1,5 +1,7 @@
 """A Prize No One Can Win"""
 
+# aprizenoonecanwin
+
 n, X = [int(x) for x in input().split()]
 nums = [int(x) for x in input().split()]
 
