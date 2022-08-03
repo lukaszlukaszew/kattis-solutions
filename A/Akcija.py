@@ -1,5 +1,7 @@
 """Akcija"""
 
+# akcija
+
 books = int(input())
 prices = []
 

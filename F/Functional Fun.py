@@ -1,5 +1,7 @@
 """Functional Fun"""
 
+# functionalfun
+
 import sys
 
 while True:

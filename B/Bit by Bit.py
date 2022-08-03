@@ -1,5 +1,7 @@
 """Bit by Bit"""
 
+# bitbybit
+
 to_map = {None: "?", True: "1", False: "0"}
 
 

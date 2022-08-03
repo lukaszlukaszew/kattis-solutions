@@ -1,5 +1,7 @@
 """Alphabet Spam"""
 
+# alphabetspam
+
 import string
 
 line = input()

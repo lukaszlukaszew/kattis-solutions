@@ -1,5 +1,7 @@
 """Dirty Driving"""
 
+# dirtydriving
+
 n, p = [int(x) for x in input().split()]
 distances = sorted(map(int, input().split()))
 safety = 0

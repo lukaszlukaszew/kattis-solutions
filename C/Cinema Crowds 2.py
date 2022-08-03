@@ -1,5 +1,7 @@
 """Cinema Crowds 2"""
 
+# cinema2
+
 N, M = map(int, input().split())
 nums = list(map(int, input().split()))
 

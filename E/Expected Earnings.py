@@ -1,5 +1,7 @@
 """Expected Earnings"""
 
+# expectedearnings
+
 n, k, p = map(float, input().split())
 
 if n * p >= k:

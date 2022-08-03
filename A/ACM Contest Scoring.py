@@ -1,5 +1,7 @@
 """ACM Contest Scoring"""
 
+# acm
+
 penalties = {}
 solved = 0
 points = 0

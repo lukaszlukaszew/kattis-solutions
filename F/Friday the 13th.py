@@ -1,5 +1,7 @@
 """Friday the 13th"""
 
+# friday
+
 cases = int(input())
 
 for i in range(cases):

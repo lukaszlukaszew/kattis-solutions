@@ -1,5 +1,7 @@
 """Babelfish"""
 
+# babelfish
+
 dictionary = {}
 
 while True:

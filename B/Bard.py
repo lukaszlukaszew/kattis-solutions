@@ -1,5 +1,7 @@
 """Bard"""
 
+# bard
+
 villagers = int(input())
 evenings = int(input())
 known = set()

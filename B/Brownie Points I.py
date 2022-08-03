@@ -1,5 +1,7 @@
 """Brownie Points I"""
 
+# browniepoints
+
 from sys import stdin
 
 points_count = int(stdin.readline())

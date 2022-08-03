@@ -1,5 +1,7 @@
 """Electrical Outlets"""
 
+# electricaloutlets
+
 cases = int(input())
 
 for i in range(cases):

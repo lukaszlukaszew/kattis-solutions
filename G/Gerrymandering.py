@@ -1,5 +1,7 @@
 """Gerrymandering"""
 
+# gerrymandering
+
 P, D = [int(x) for x in input().split()]
 distr_A, distr_B = {}, {}
 tot_wast_A, tot_wast_B, total = 0, 0, 0

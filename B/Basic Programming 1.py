@@ -1,5 +1,7 @@
 """Basic Programming 1"""
 
+# basicprogramming1
+
 from string import ascii_lowercase
 
 num, action = map(int, input().split())

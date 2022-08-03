@@ -1,5 +1,7 @@
 """Ceiling Function"""
 
+# ceiling
+
 prototypes = []
 dirs = ["R", "L"]
 n, k = [int(x) for x in input().split()]

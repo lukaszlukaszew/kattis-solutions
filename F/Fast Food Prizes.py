@@ -1,5 +1,7 @@
 """Fast Food Prizes"""
 
+# fastfood
+
 cases = int(input())
 
 for i in range(cases):

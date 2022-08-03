@@ -1,5 +1,7 @@
 """Datum"""
 
+# datum
+
 from datetime import date
 
 day, month = map(int, input().split())

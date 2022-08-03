@@ -1,5 +1,7 @@
 """Dyslectionary"""
 
+# dyslectionary
+
 words, length = [], 0
 word = input()
 

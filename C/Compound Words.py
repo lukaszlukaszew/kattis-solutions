@@ -1,5 +1,7 @@
 """Compound Words"""
 
+# compoundwords
+
 from sys import stdin
 from itertools import permutations
 

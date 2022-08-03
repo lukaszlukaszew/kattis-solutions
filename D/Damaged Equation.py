@@ -1,5 +1,7 @@
 """Damaged Equation"""
 
+# damagedequation
+
 operators = ["*", "+", "-", "/"]
 
 a, b, c, d = input().split()

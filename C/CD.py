@@ -1,5 +1,7 @@
 """CD"""
 
+# cd
+
 from sys import stdin
 
 while True:

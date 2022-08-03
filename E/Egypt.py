@@ -1,5 +1,7 @@
 """Egypt"""
 
+# egypt
+
 while True:
     nums = sorted(list(map(int, input().split())))
 

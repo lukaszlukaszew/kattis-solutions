@@ -1,5 +1,7 @@
 """Army Strength (Easy)"""
 
+# armystrengtheasy
+
 from sys import stdin, stdout
 
 cases = int(stdin.readline())

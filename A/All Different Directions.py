@@ -1,5 +1,7 @@
 """All Different Directions"""
 
+# alldifferentdirections
+
 import math
 
 people = int(input())

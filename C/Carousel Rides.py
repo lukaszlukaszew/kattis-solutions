@@ -1,5 +1,7 @@
 """Carousel Rides"""
 
+# carousel
+
 while True:
     n, m = [int(x) for x in input().split()]
     best_offer = [0, 0, 0]

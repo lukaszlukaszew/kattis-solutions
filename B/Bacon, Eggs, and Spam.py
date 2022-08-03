@@ -1,5 +1,7 @@
 """Bacon, Eggs and Spam"""
 
+# baconeggsandspam
+
 orders_number = int(input())
 
 while orders_number:

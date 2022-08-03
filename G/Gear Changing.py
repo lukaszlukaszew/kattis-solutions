@@ -1,5 +1,7 @@
 """Gear Changing"""
 
+# gearchanging
+
 N, M, P = map(int, input().split())
 C = sorted(list(map(int, input().split())), reverse=True)
 D = sorted(list(map(int, input().split())))

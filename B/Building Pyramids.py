@@ -1,5 +1,7 @@
 """Building Pyramids"""
 
+# pyramids
+
 blocks = int(input())
 height = 0
 width = 1

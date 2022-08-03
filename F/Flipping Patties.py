@@ -1,5 +1,7 @@
 """Flipping Patties"""
 
+# flippingpatties
+
 orders = int(input())
 actions = {}
 

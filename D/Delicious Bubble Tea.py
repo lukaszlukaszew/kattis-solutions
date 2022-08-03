@@ -1,5 +1,7 @@
 """Delicious Bubble Tea"""
 
+# bubbletea
+
 from sys import maxsize
 
 tea_count = int(input())

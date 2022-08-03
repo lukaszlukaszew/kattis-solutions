@@ -1,5 +1,7 @@
 """Cryptographer's Conundrum"""
 
+# conundrum
+
 word = input()
 result = 0
 

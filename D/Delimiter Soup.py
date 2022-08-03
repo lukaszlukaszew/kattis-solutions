@@ -1,5 +1,7 @@
 """Delimiter Soup"""
 
+# delimitersoup
+
 input()
 delimiters = {"}": "{", "]": "[", ")": "("}
 line = input()

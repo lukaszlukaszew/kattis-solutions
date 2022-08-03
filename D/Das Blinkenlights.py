@@ -1,5 +1,7 @@
 """Das Blinkenlights"""
 
+# dasblinkenlights
+
 
 def nwd(x, y):
     """Greatest common divisor"""

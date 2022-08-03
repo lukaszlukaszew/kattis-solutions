@@ -1,5 +1,7 @@
 """Early Winter"""
 
+# earlywinter
+
 years, gap = [int(x) for x in input().split()]
 gaps = [int(x) for x in input().split()]
 

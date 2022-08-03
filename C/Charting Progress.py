@@ -1,5 +1,7 @@
 """Charting Progress"""
 
+# chartingprogress
+
 import sys
 
 counter = 0

@@ -1,5 +1,7 @@
 """Curse the Darkness"""
 
+# cursethedarkness
+
 cases = int(input())
 
 for i in range(cases):

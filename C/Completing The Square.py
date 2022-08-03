@@ -1,5 +1,7 @@
 """Completing The Square"""
 
+# completingthesquare
+
 from math import sqrt
 
 [Ax, Ay] = [int(x) for x in input().split()]

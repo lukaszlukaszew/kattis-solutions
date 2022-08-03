@@ -1,5 +1,7 @@
 """Amsterdam Distance"""
 
+# amsterdamdistance
+
 from math import pi
 
 pie_slices, rings, radius = [float(x) for x in input().split()]

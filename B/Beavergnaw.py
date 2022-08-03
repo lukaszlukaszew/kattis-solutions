@@ -1,5 +1,7 @@
 """Beavergnaw"""
 
+# beavergnaw
+
 import math
 
 D, V = map(int, input().split())

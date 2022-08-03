@@ -1,5 +1,7 @@
 """Alien Numbers"""
 
+# aliennumbers
+
 test_cases = int(input())
 
 for j in range(test_cases):
@@ -8,7 +10,7 @@ for j in range(test_cases):
     number_dec = 0
 
     for i, n in enumerate(an):
-        number_dec += sl.index(an[i]) * (len(sl) ** (len(an) - i - 1))
+        number_dec += sl.index(n) * (len(sl) ** (len(an) - i - 1))
 
     result = ""
 

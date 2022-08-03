@@ -1,5 +1,7 @@
 """Candle Box"""
 
+# candlebox
+
 D = int(input())
 R = int(input())
 T = int(input())

@@ -1,5 +1,7 @@
 """Astrological Sign"""
 
+# astrologicalsign
+
 signs = {
     "Jan": (21, "Capricorn", "Aquarius"),
     "Feb": (20, "Aquarius", "Pisces"),

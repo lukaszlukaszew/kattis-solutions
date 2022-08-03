@@ -1,5 +1,7 @@
 """From A to B"""
 
+# fromatob
+
 a, b = [int(x) for x in input().split()]
 counter = 0
 

@@ -1,5 +1,7 @@
 """Eligibility"""
 
+# eligibility
+
 cases = int(input())
 
 for i in range(cases):

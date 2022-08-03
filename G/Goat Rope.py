@@ -1,5 +1,7 @@
 """Goat Rope"""
 
+# goatrope
+
 from math import sqrt
 
 x, y, x1, y1, x2, y2 = map(float, input().split())

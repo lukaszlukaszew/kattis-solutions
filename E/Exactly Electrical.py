@@ -1,5 +1,7 @@
 """Exactly Electrical"""
 
+# exactlyelectrical
+
 x1, y1 = [int(x) for x in input().split()]
 x2, y2 = [int(x) for x in input().split()]
 charge = int(input())

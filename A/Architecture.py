@@ -1,5 +1,7 @@
 """Architecture"""
 
+# architecture
+
 RC = input()
 
 first_line = [int(x) for x in input().split()]

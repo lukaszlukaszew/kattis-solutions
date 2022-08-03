@@ -1,5 +1,7 @@
 """Darts"""
 
+# dartscores
+
 cases = int(input())
 
 for i in range(cases):

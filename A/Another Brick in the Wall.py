@@ -1,5 +1,7 @@
 """Another Brick in the Wall"""
 
+# anotherbrick
+
 h, w, n = map(int, input().split())
 x = list(map(int, input().split()))[::-1]
 

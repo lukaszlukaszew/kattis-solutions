@@ -1,5 +1,7 @@
 """Combination Lock"""
 
+# combinationlock
+
 line = [int(x) for x in input().split()]
 
 while sum(line):

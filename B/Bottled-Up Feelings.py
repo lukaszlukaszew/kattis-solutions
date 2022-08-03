@@ -1,5 +1,7 @@
 """Bottled-Up Feelings"""
 
+# bottledup
+
 s, v1, v2 = [int(x) for x in input().split()]
 x, y = int(s // v1), 0
 

@@ -1,5 +1,7 @@
 """FBI Universal Control Numbers"""
 
+# fbiuniversal
+
 digits = "0123456789ACDEFHJKLMNPRTVWX"
 mistakes = {
     "B": "8",

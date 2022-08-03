@@ -1,5 +1,7 @@
 """Grass Seed Inc."""
 
+# grassseed
+
 cost = float(input())
 lawns = int(input())
 area = 0

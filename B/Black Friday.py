@@ -1,5 +1,7 @@
 """Black Friday"""
 
+# blackfriday
+
 participants = int(input())
 outcomes = [int(x) for x in input().split()]
 

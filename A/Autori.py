@@ -1,5 +1,7 @@
 """Autori"""
 
+# autori
+
 name = input().split('-')
 result = ''
 

@@ -1,5 +1,7 @@
 """Code Cleanups"""
 
+# codecleanups
+
 input()
 dates = [int(x) for x in input().split()][::-1]
 cleanups, counter, penalty = 0, 0, 0

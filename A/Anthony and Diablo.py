@@ -1,5 +1,7 @@
 """Anthony and Diablo"""
 
+# anthonyanddiablo
+
 from math import pi, sqrt
 
 a, n = map(float, input().split())

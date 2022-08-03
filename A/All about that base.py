@@ -1,5 +1,7 @@
 """All about that base"""
 
+# allaboutthatbase
+
 from sys import stdin
 from string import digits, ascii_lowercase
 

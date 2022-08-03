@@ -1,5 +1,7 @@
 """Breaking Branches"""
 
+# breakingbranches
+
 if int(input()) % 2:
     print("Bob")
 else:

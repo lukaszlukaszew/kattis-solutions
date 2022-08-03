@@ -1,5 +1,7 @@
 """Drinking Song"""
 
+# drinkingsong
+
 a = int(input())
 b = input()
 

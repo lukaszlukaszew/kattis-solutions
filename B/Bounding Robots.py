@@ -1,5 +1,7 @@
 """Bounding Robots"""
 
+# boundingrobots
+
 width, length = map(int, input().split())
 
 while width + length:

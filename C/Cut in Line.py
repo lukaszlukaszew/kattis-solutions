@@ -1,5 +1,7 @@
 """Cut in Line"""
 
+# cutinline
+
 people = int(input())
 line = []
 

@@ -1,5 +1,7 @@
 """Dice Game"""
 
+# dicegame
+
 emma = map(int, input().split())
 gunnar = map(int, input().split())
 result = sum(map(lambda x, y: x - y, emma, gunnar))

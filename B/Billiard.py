@@ -1,5 +1,7 @@
 """Billiard"""
 
+# billiard
+
 from math import sqrt, degrees, acos
 
 line = [int(x) for x in input().split()]

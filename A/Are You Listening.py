@@ -1,5 +1,7 @@
 """Are You Listening?"""
 
+# areyoulistening
+
 from math import sqrt
 
 cx, cy, devices = [int(x) for x in input().split()]

@@ -1,5 +1,7 @@
 """Bishops"""
 
+# bishops
+
 import sys
 
 try:

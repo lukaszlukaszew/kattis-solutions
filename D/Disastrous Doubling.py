@@ -1,5 +1,7 @@
 """Disastrous Doubling"""
 
+# disastrousdoubling
+
 from sys import stdin
 
 n = stdin.readline()

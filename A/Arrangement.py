@@ -1,5 +1,7 @@
 """Arrangement"""
 
+# upprodun
+
 rooms = int(input())
 teams = int(input())
 

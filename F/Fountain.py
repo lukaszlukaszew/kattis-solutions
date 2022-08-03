@@ -1,5 +1,7 @@
 """Fountain"""
 
+# fontan
+
 from collections import deque
 
 r, c = [int(x) for x in input().split()]

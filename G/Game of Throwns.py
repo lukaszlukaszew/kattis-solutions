@@ -1,5 +1,7 @@
 """Game of Throwns"""
 
+# throwns
+
 students, moves_count = [int(x) for x in input().split()]
 moves = [
     0,

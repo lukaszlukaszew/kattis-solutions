@@ -1,5 +1,7 @@
 """ASCII Figure Rotation"""
 
+# asciifigurerotation
+
 counter = 0
 
 while True:

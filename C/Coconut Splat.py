@@ -1,5 +1,7 @@
 """Coconut Splat"""
 
+# coconut
+
 syllables, players_count = [int(x) for x in input().split()]
 fists, ind = [], 0
 

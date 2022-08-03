@@ -1,5 +1,7 @@
 """Free Food"""
 
+# freefood
+
 N = int(input())
 result = set()
 

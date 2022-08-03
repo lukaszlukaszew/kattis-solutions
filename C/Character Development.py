@@ -1,5 +1,7 @@
 """Character Development"""
 
+# character
+
 from math import factorial
 
 characters = int(input())

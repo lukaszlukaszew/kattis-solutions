@@ -1,5 +1,7 @@
 """Basic Programming 2"""
 
+# basicprogramming2
+
 from collections import Counter
 
 num, action = map(int, input().split())

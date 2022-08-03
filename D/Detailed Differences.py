@@ -1,5 +1,7 @@
 """Detailed Differences"""
 
+# detaileddifferences
+
 cases = int(input())
 
 for i in range(cases):

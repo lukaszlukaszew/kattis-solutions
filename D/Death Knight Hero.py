@@ -1,5 +1,7 @@
 """Death Knight Hero"""
 
+# deathknight
+
 battles = int(input())
 battles_lost = 0
 

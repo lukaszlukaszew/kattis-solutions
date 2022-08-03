@@ -1,5 +1,7 @@
 """Deathstar"""
 
+# deathstar
+
 N = int(input())
 container = {}
 

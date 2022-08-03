@@ -1,5 +1,7 @@
 """Cokolada"""
 
+# cokolada
+
 pieces = int(input())
 choc_bar, breaks = 1, 0
 

@@ -1,5 +1,7 @@
 """Cookie Cutters"""
 
+# cookiecutter
+
 points = int(input())
 x, y = [], []
 

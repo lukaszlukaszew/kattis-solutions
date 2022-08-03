@@ -1,5 +1,7 @@
 """Best Compromise"""
 
+# compromise
+
 from collections import defaultdict
 
 scenarios = int(input())

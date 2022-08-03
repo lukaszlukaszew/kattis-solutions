@@ -1,5 +1,7 @@
 """Counting Clauses"""
 
+# countingclauses
+
 clauses, variables = [int(x) for x in input().split()]
 
 for i in range(clauses):

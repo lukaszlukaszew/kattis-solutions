@@ -1,5 +1,7 @@
 """Calculator"""
 
+# calculator
+
 import sys
 
 try:

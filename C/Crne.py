@@ -1,5 +1,7 @@
 """Crne"""
 
+# crne
+
 cuts = int(input())
 rows, columns = 1, 1
 

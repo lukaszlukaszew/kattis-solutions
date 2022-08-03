@@ -1,5 +1,7 @@
 """Different Distances"""
 
+# differentdistances
+
 while True:
     nums = input()
     if nums == "0":

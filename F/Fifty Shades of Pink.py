@@ -1,5 +1,7 @@
 """Fifty Shades of Pink"""
 
+# fiftyshades
+
 COUNTER = 0
 words = ["pink", "rose"]
 

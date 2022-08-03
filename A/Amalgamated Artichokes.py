@@ -1,5 +1,7 @@
 """Amalgamated Artichokes"""
 
+# artichoke
+
 from sys import stdin
 from math import sin, cos
 

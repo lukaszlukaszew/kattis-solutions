@@ -1,5 +1,7 @@
 """Cooking Water"""
 
+# cookingwater
+
 cases = int(input())
 result = 0
 

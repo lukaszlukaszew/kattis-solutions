@@ -1,5 +1,7 @@
 """Forced Choice"""
 
+# forcedchoice
+
 from sys import stdin
 
 N, P, S = map(int, stdin.readline().split())

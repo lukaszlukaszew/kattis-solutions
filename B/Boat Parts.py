@@ -1,5 +1,7 @@
 """Boat Parts"""
 
+# boatparts
+
 parts, days = map(int, input().split())
 replaced = set()
 counter = 0

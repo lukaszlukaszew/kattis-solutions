@@ -1,5 +1,7 @@
 """Encoded Message"""
 
+# encodedmessage
+
 from math import sqrt
 
 cases = int(input())

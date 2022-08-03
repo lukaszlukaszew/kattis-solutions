@@ -1,5 +1,7 @@
 """Beehives"""
 
+# beehives
+
 from math import sqrt
 
 distance, hives_count = map(float, input().split())

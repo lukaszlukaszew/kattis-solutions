@@ -1,5 +1,7 @@
 """Death and Taxes"""
 
+# deathtaxes
+
 from sys import stdin
 
 p, q, s, a = 0, 0, 0, 0

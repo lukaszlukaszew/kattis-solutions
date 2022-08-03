@@ -1,5 +1,7 @@
 """Broken Swords"""
 
+# brokenswords
+
 swords = int(input())
 t_b = 0
 l_r = 0

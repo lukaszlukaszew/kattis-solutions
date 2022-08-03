@@ -1,5 +1,7 @@
 """Coloring Socks"""
 
+# color
+
 from sys import stdin
 
 S, C, K = [int(x) for x in stdin.readline().split()]

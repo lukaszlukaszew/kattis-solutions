@@ -1,5 +1,7 @@
 """Basketball One-on-One"""
 
+# basketballoneonone
+
 match = input()
 points = {"A": 0, "B": 0}
 

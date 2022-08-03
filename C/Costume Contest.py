@@ -1,4 +1,6 @@
-"""Costumes Contest"""
+"""Costume Contest"""
+
+# costumecontest
 
 from collections import defaultdict
 

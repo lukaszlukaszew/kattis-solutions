@@ -1,5 +1,7 @@
 """Card Trick"""
 
+# cardtrick2
+
 from collections import deque
 
 cases = int(input())

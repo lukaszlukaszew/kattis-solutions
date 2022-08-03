@@ -1,5 +1,7 @@
 """Association for Computing Machinery"""
 
+# acm2
+
 N, ind = [int(x) for x in input().split()]
 times = [int(x) for x in input().split()]
 

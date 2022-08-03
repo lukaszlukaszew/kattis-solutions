@@ -1,5 +1,7 @@
 """Beat the Spread!"""
 
+# beatspread
+
 cases = int(input())
 
 for i in range(cases):

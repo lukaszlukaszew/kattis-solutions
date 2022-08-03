@@ -1,5 +1,7 @@
 """Bijele"""
 
+# bijele
+
 found = list(map(int, input().split()))
 full = [1, 1, 2, 2, 2, 8]
 

@@ -1,5 +1,7 @@
 """Digit Product"""
 
+# sifferprodukt
+
 num = input().replace("0", "")
 
 while len(num) > 1:

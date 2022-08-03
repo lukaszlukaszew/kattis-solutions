@@ -1,5 +1,7 @@
 """Flexible Spaces"""
 
+# flexible
+
 from itertools import combinations
 
 W, P = map(int, input().split())

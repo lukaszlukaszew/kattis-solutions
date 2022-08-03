@@ -1,5 +1,7 @@
 """Erase Securely"""
 
+# erase
+
 bits, check = "01", 0
 N = int(input())
 line_1 = input()

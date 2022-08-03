@@ -1,5 +1,7 @@
 """Event Planning"""
 
+# eventplanning
+
 participants, budget, hotels, weeks = [int(x) for x in input().split()]
 min_price = 0
 

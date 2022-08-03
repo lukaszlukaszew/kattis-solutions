@@ -1,5 +1,7 @@
 """Backspace"""
 
+# backspace
+
 import sys
 
 line = sys.stdin.readline()

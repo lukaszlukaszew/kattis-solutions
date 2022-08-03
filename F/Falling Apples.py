@@ -1,5 +1,7 @@
 """Falling Apples"""
 
+# apples
+
 from sys import stdin, stdout
 
 rows, columns = map(int, stdin.readline().split())

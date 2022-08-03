@@ -1,5 +1,7 @@
 """Apaxiaaaaaaaaaaaans!"""
 
+# apaxiaaans
+
 word = input()
 result = word[:1]
 
