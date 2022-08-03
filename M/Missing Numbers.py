@@ -1,5 +1,7 @@
 """Missing Numbers"""
 
+# missingnumbers
+
 n = int(input())
 recited, full_range = [], []
 

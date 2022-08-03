@@ -1,5 +1,7 @@
 """Ornaments"""
 
+# ornaments
+
 from math import pi, acos, sqrt
 
 r, h, e = [float(x) for x in input().split()]

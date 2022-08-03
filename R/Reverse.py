@@ -1,5 +1,7 @@
 """Reverse"""
 
+# ofugsnuid
+
 from sys import stdin, stdout
 
 loop = int(stdin.readline())

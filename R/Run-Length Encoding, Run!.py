@@ -1,5 +1,7 @@
 """Run-Length Encoding, Run!"""
 
+# runlengthencodingrun
+
 
 def analyze(line):
     """Analyze message"""

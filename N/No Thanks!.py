@@ -1,5 +1,7 @@
 """No Thanks!"""
 
+# nothanks
+
 from sys import stdin
 
 n = int(stdin.readline())

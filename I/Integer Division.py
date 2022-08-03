@@ -1,5 +1,7 @@
 """Integer Division"""
 
+# integerdivision
+
 from sys import stdin
 
 num, divisor = [int(x) for x in stdin.readline().split()]

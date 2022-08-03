@@ -1,5 +1,7 @@
 """(More) Multiplication"""
 
+# multiplication
+
 x, y = input().split()
 
 while int(x) + int(y):

@@ -1,5 +1,7 @@
 """Mars Window"""
 
+# marswindow
+
 year = int(input())
 
 result = 0

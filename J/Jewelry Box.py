@@ -1,5 +1,7 @@
 """Jewelry Box"""
 
+# jewelrybox
+
 from math import sqrt
 
 cases = int(input())

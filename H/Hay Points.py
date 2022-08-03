@@ -1,5 +1,7 @@
 """Hay Points"""
 
+# haypoints
+
 from sys import stdin
 
 dictionary = {}

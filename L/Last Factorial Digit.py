@@ -1,5 +1,7 @@
 """Last Factorial Digit"""
 
+# lastfactorialdigit
+
 from math import factorial
 
 cases = int(input())

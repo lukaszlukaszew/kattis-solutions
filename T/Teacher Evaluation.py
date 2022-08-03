@@ -1,5 +1,7 @@
 """Teacher Evaluation"""
 
+# teacherevaluation
+
 N, P = [int(x) for x in input().split()]
 scores = [int(x) for x in input().split()]
 

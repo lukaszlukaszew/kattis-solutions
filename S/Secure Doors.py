@@ -1,5 +1,7 @@
 """Secure Doors"""
 
+# securedoors
+
 log = int(input())
 options = {"entry": "entered", "exit": "exited"}
 people = set()

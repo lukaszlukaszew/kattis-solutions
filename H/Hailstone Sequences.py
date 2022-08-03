@@ -1,5 +1,7 @@
 """Hailstone Sequences"""
 
+# hailstone2
+
 num, counter = int(input()), 1
 
 while num != 1:

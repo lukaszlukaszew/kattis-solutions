@@ -1,5 +1,7 @@
 """Semafori"""
 
+# semafori
+
 lights, road = [int(x) for x in input().split()]
 timer, road_driven = 0, 0
 

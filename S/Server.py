@@ -1,5 +1,7 @@
 """Server"""
 
+# server
+
 n, T = map(int, input().split())
 tasks = list(map(int, input().split()))
 

@@ -1,5 +1,7 @@
 """Mastering Mastermind"""
 
+# mastermind
+
 n, first, second = input().split()
 first, second = list(first), list(second)
 r, s = 0, 0

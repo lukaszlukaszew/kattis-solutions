@@ -1,5 +1,7 @@
 """I've Been Everywhere, Man"""
 
+# everywhere
+
 cases = int(input())
 
 for i in range(cases):

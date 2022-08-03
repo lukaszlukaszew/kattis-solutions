@@ -1,5 +1,7 @@
 """Parket"""
 
+# parket
+
 from math import sqrt
 
 R, B = map(int, input().split())

@@ -1,5 +1,7 @@
 """Nine Knights"""
 
+# nineknights
+
 board, knights, moved, ops = [], set(), set(), set()
 ops_a, ops_b = (1, -1), (2, -2)
 

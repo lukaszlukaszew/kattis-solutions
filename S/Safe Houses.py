@@ -1,5 +1,7 @@
 """Safe Houses"""
 
+# safehouses
+
 from sys import stdin
 
 size = int(stdin.readline())

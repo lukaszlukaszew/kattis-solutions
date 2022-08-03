@@ -1,5 +1,7 @@
 """Methodic Multiplication"""
 
+# methodicmultiplication
+
 X = input()
 Y = input()
 

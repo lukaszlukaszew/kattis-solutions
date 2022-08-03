@@ -1,5 +1,7 @@
 """Tai's Formula"""
 
+# taisformula
+
 samples = int(input())
 result = 0
 

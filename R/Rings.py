@@ -1,5 +1,7 @@
 """Rings"""
 
+# rings2
+
 from sys import stdin
 
 r, c = map(int, stdin.readline().split())

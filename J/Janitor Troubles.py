@@ -1,5 +1,7 @@
 """Janitor Troubles"""
 
+# janitortroubles
+
 from math import sqrt
 
 areas = list(map(int, input().split()))

@@ -1,5 +1,7 @@
 """Sum Kind of Problem"""
 
+# sumkindofproblem
+
 cases = int(input())
 
 for i in range(cases):

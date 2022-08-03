@@ -1,5 +1,7 @@
 """Prozor"""
 
+# prozor
+
 R, S, K = [int(x) for x in input().split()]
 window, flies = [], 0
 

@@ -1,5 +1,7 @@
 """Smoothie Stand"""
 
+# smoothiestand
+
 from sys import stdin, maxsize
 
 k, r = map(int, stdin.readline().split())

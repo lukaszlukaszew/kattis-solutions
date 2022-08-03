@@ -1,5 +1,7 @@
 """Patuljci"""
 
+# patuljci
+
 from itertools import combinations
 
 dwarves = []

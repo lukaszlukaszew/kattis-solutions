@@ -1,5 +1,7 @@
 """Provinces and Gold"""
 
+# provincesandgold
+
 G, S, C = map(int, input().split())
 points = G * 3 + S * 2 + C
 result = []

@@ -1,5 +1,7 @@
 """Spavanac"""
 
+# spavanac
+
 H, M = map(int, input().split())
 result = H * 60 + M
 

@@ -1,5 +1,7 @@
 """Soundex"""
 
+# soundex
+
 letters = {
     "B": "1",
     "F": "1",

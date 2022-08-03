@@ -1,5 +1,7 @@
 """Soft Password"""
 
+# softpasswords
+
 S, P = input(), input()
 
 result = [

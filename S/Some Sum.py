@@ -1,5 +1,7 @@
 """Some Sum"""
 
+# somesum
+
 num = int(input())
 
 if num % 2:

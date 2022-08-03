@@ -1,5 +1,7 @@
 """Paradox With Averages"""
 
+# averageseasy
+
 from sys import stdin
 
 cases = int(stdin.readline())

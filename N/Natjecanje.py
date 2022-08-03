@@ -1,5 +1,7 @@
 """Natjecanje"""
 
+# natjecanje
+
 T, B, R = [int(x) for x in input().split()]
 broken = {int(x) for x in input().split()}
 reserve = {int(x) for x in input().split()}

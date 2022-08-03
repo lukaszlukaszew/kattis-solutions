@@ -1,5 +1,7 @@
 """Judging Moose"""
 
+# judgingmoose
+
 L, R = map(int, input().split())
 
 if L == R:

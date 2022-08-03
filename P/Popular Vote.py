@@ -1,5 +1,7 @@
 """Popular Vote"""
 
+# vote
+
 cases = int(input())
 
 for i in range(cases):

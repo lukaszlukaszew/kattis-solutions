@@ -1,5 +1,7 @@
 """Slatkisi"""
 
+# slatkisi
+
 price, zeroes = [int(x) for x in input().split()]
 
 bill = int("1" + zeroes * "0")

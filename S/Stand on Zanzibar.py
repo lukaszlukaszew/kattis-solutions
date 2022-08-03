@@ -1,5 +1,7 @@
 """Stand on Zanzibar"""
 
+# zanzibar
+
 cases = int(input())
 
 for i in range(cases):

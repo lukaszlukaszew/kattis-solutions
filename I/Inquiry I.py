@@ -1,5 +1,7 @@
 """Inquiry I"""
 
+# inquiryi
+
 from sys import stdin
 
 nums = []

@@ -1,5 +1,7 @@
 """Križaljka"""
 
+# krizaljka
+
 horizontal, vertical = input().split()
 
 for i in horizontal:

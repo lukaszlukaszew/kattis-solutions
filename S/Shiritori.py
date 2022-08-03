@@ -1,5 +1,7 @@
 """Shiritori"""
 
+# shiritori
+
 from sys import stdin
 
 words = int(stdin.readline())

@@ -1,5 +1,7 @@
 """Pivot"""
 
+# pivot
+
 from sys import stdin
 
 numbers = int(stdin.readline())

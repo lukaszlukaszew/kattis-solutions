@@ -1,5 +1,7 @@
 """Östgötska"""
 
+# ostgotska
+
 counter = 0
 line = input().split()
 for i in line:

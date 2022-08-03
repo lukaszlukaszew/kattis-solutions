@@ -1,5 +1,7 @@
 """Lawn Mower"""
 
+# lawnmower
+
 while True:
     y, x, width = map(float, input().split())
 

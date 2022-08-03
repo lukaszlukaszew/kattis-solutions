@@ -1,5 +1,7 @@
 """Hidden Password"""
 
+# hidden
+
 password, message = input().split()
 result = 1
 

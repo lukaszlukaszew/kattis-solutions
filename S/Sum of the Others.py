@@ -1,5 +1,7 @@
 """Sum of the Others"""
 
+# sumoftheothers
+
 while True:
     try:
         nums = list(map(int, input().split()))

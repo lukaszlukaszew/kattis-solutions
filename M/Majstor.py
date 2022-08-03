@@ -1,5 +1,7 @@
 """Majstor"""
 
+# majstor
+
 combinations = {
     "RS": 2,
     "PS": 0,

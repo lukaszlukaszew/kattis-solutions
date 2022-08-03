@@ -1,5 +1,7 @@
 """One Chicken Per Person!"""
 
+# onechicken
+
 N, M = map(int, input().split())
 
 num = M - N

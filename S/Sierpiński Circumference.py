@@ -1,5 +1,7 @@
 """Sierpiński Circumference"""
 
+# triangle
+
 from sys import stdin
 
 case = 0

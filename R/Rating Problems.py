@@ -1,5 +1,7 @@
 """Rating Problems"""
 
+# ratingproblems
+
 n, k = map(int, input().split())
 summary = 0
 

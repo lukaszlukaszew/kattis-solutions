@@ -1,5 +1,7 @@
 """Shopaholic"""
 
+# shopaholic
+
 from sys import stdin
 
 items = int(input())

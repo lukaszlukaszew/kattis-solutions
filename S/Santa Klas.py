@@ -1,5 +1,7 @@
 """Santa Klas"""
 
+# santaklas
+
 import math
 
 height, angle = [int(x) for x in input().split()]

@@ -1,5 +1,7 @@
 """NOP"""
 
+# nop
+
 from string import ascii_uppercase
 
 line = list(input())

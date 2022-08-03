@@ -1,5 +1,7 @@
 """Prsteni"""
 
+# prsteni
+
 
 def nwd(a, b):
     """Greatest common divisor"""

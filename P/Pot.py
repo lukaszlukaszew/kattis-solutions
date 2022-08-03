@@ -1,5 +1,7 @@
 """Pot"""
 
+# pot
+
 cases = int(input())
 result = 0
 

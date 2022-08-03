@@ -1,5 +1,7 @@
 """Ladder"""
 
+# ladder
+
 import math
 
 h, v = map(int, input().split())

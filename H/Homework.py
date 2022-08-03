@@ -1,5 +1,7 @@
 """Homework"""
 
+# heimavinna
+
 homework = input().split(";")
 problems = len(homework)
 

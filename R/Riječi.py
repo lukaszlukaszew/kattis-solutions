@@ -1,5 +1,7 @@
 """Riječi"""
 
+# rijeci
+
 K = int(input())
 A, B = 1, 0
 

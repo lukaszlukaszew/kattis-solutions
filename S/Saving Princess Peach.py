@@ -1,5 +1,7 @@
 """Saving Princess Peach"""
 
+# princesspeach
+
 obstacles_count, mario = [int(x) for x in input().split()]
 
 obstacles = set(range(obstacles_count))

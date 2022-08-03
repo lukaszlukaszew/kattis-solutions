@@ -1,5 +1,7 @@
 """Putovanje"""
 
+# putovanje
+
 N, C = [int(x) for x in input().split()]
 maximum = 0
 weights = [int(x) for x in input().split()]

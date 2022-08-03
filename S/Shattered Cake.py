@@ -1,5 +1,7 @@
 """Shattered Cake"""
 
+# Shattered
+
 width = int(input())
 pieces = int(input())
 area = 0

@@ -1,5 +1,7 @@
 """Judging Troubles"""
 
+# judging
+
 from sys import stdin
 from collections import defaultdict
 

@@ -1,5 +1,7 @@
 """Relocation"""
 
+# relocation
+
 N, Q = map(int, input().split())
 locations = list(map(int, input().split()))
 

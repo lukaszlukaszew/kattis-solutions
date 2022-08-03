@@ -1,5 +1,7 @@
 """Islands in the Data Stream"""
 
+# islands
+
 
 def counter(num):
     """Count islands"""

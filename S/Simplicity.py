@@ -1,5 +1,7 @@
 """Simplicity"""
 
+# simplicity
+
 from collections import Counter
 
 word = Counter(input())

@@ -1,5 +1,7 @@
 """Guess the Number"""
 
+# guess
+
 import sys
 
 minimum, maximum, guess = 1, 1000, 500

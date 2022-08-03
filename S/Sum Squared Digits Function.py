@@ -1,5 +1,7 @@
 """Sum Squared Digits Function"""
 
+# sumsquareddigits
+
 cases = int(input())
 
 for i in range(cases):

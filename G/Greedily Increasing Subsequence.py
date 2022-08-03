@@ -1,5 +1,7 @@
 """Greedily Increasing Subsequence"""
 
+# greedilyincreasing
+
 from sys import stdin
 
 stdin.readline()

@@ -1,5 +1,7 @@
 """Oddities"""
 
+# oddities
+
 nums = int(input())
 
 for i in range(nums):

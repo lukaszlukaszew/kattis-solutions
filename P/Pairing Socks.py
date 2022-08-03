@@ -1,5 +1,7 @@
 """Pairing Socks"""
 
+# pairingsocks
+
 from sys import stdin
 
 socks = int(stdin.readline())

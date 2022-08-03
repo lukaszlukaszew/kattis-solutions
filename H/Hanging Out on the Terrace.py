@@ -1,5 +1,7 @@
 """Hanging Out on the Terrace"""
 
+# hangingout
+
 L, x = map(int, input().split())
 current, blocked = 0, 0
 

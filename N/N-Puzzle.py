@@ -1,5 +1,7 @@
 """N-Puzzle"""
 
+# npuzzle
+
 scatter = 0
 desired = {
     "A": (0, 0),

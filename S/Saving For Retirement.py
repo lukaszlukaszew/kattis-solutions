@@ -1,5 +1,7 @@
 """Saving For Retirement"""
 
+# savingforretirement
+
 B, Br, Bs, A, As = map(int, input().split())
 
 bobs_cash = (Br - B) * Bs

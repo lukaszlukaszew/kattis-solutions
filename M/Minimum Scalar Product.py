@@ -1,5 +1,7 @@
 """Minimum Scalar Product"""
 
+# minimumscalar
+
 cases = int(input())
 
 for i in range(cases):

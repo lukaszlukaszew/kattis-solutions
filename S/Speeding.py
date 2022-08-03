@@ -1,5 +1,7 @@
 """Speeding"""
 
+# speeding
+
 from sys import stdin
 
 photos = int(stdin.readline())

@@ -1,5 +1,7 @@
 """Odd Man Out"""
 
+# oddmanout
+
 from collections import Counter
 
 cases = int(input())

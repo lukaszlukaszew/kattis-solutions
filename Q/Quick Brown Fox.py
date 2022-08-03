@@ -1,5 +1,7 @@
 """Quick Brown Fox"""
 
+# quickbrownfox
+
 from string import ascii_lowercase
 
 cases = int(input())

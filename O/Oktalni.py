@@ -1,5 +1,7 @@
 """Oktalni"""
 
+# oktalni
+
 binary = input()
 binary = "0" * (3 - len(binary) % 3) * int(bool(len(binary) % 3)) + binary
 result = ""

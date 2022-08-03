@@ -1,5 +1,7 @@
 """Quite a Problem"""
 
+# quiteaproblem
+
 while True:
     try:
         line = input().lower()

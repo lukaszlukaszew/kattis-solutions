@@ -1,5 +1,7 @@
 """Identifying Map Tiles"""
 
+# maptiles2
+
 quadkey = input()
 basic = {"0": (0, 0), "1": (1, 0), "2": (0, 1), "3": (1, 1)}
 x, y = 0, 0

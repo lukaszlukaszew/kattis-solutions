@@ -1,5 +1,7 @@
 """Quality-Adjusted Life-Year"""
 
+# qaly
+
 periods = int(input())
 result = 0
 

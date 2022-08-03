@@ -1,5 +1,7 @@
 """Pet"""
 
+# pet
+
 position, result = 0, 0
 
 for i in range(5):

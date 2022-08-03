@@ -1,5 +1,7 @@
 """Quadrant Selection"""
 
+# quadrant
+
 x = int(input())
 y = int(input())
 

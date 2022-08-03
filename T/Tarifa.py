@@ -1,5 +1,7 @@
 """Tarifa"""
 
+# tarifa
+
 X = int(input())
 N = int(input())
 used = 0

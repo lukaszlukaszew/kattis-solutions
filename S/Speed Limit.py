@@ -1,5 +1,7 @@
 """Speed Limit"""
 
+# speedlimit
+
 case = int(input())
 
 while case != -1:

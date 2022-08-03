@@ -1,5 +1,7 @@
 """Saving Daylight"""
 
+# savingdaylight
+
 while True:
     try:
         a = input().split()

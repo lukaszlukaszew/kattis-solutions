@@ -1,5 +1,7 @@
 """Social Running"""
 
+# socialrunning
+
 number = int(input())
 distances, minimum = [], float("inf")
 

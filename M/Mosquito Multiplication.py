@@ -1,5 +1,7 @@
 """Mosquito Multiplication"""
 
+# mosquito
+
 import sys
 
 try:

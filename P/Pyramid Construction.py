@@ -1,5 +1,7 @@
 """Pyramid Construction"""
 
+# pyramidkonstruktion
+
 
 def count_bricks(level):
     """Define required num of 1-sized bricks"""

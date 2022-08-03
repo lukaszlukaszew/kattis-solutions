@@ -1,5 +1,7 @@
 """Heir's Dilemma"""
 
+# heirsdilemma
+
 start, stop = [int(x) for x in input().split()]
 counter = 0
 

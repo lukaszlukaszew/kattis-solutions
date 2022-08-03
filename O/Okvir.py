@@ -1,5 +1,7 @@
 """Okvir"""
 
+# okvir
+
 M, N = [int(x) for x in input().split()]
 U, L, R, D = [int(x) for x in input().split()]
 

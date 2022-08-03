@@ -1,5 +1,7 @@
 """Karte"""
 
+# karte
+
 suits = ["P", "K", "H", "T"]
 cards = [13, 13, 13, 13]
 

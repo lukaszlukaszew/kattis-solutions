@@ -1,5 +1,7 @@
 """Hydra's Head"""
 
+# hydrasheads
+
 while True:
     H, T = map(int, input().split())
 

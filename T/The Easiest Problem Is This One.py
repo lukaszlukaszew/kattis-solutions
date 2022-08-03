@@ -1,5 +1,7 @@
 """The Easiest Problem Is This One"""
 
+# easiest
+
 num = int(input())
 
 while num:

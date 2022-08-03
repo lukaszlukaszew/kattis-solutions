@@ -1,5 +1,7 @@
 """Symmetric Order"""
 
+# symmetricorder
+
 case = 1
 names_count = int(input())
 

@@ -1,5 +1,7 @@
 """Moscow Dream"""
 
+# moscowdream
+
 a, b, c, n = map(int, input().split())
 
 if a + b + c >= n >= 3 and a * b * c > 0:

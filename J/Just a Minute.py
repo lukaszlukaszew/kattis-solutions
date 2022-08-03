@@ -1,5 +1,7 @@
 """Just a Minute"""
 
+# justaminute
+
 observations = int(input())
 minutes, seconds = [], []
 

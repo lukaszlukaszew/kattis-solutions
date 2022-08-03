@@ -1,5 +1,7 @@
 """Hot Hike"""
 
+# hothike
+
 days = int(input())
 temperatures = list(map(int, input().split()))
 result = []

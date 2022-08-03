@@ -1,5 +1,7 @@
 """Seven Wonders"""
 
+# sevenwonders
+
 line = input()
 counter = [line.count("T"), line.count("C"), line.count("G")]
 

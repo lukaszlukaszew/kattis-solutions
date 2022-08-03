@@ -1,5 +1,7 @@
 """Primary Register"""
 
+# register
+
 from functools import reduce
 
 registers = [int(x) for x in input().split()]

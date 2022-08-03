@@ -1,5 +1,7 @@
 """Rhyming Slang"""
 
+# rhyming
+
 S = input()
 rhymes_count = int(input())
 rhymes = set()

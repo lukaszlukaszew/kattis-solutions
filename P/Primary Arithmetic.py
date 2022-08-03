@@ -1,5 +1,7 @@
 """Primary Arithmetic"""
 
+# primaryarithmetic
+
 num1, num2 = input().split()
 
 while int(num1) + int(num2):

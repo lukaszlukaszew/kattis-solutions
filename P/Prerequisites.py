@@ -1,5 +1,7 @@
 """Prerequisites?"""
 
+# prerequisites
+
 line = list(map(int, input().split()))
 
 while sum(line):

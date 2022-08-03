@@ -1,5 +1,7 @@
 """Hangman"""
 
+# hangman
+
 word = input()
 permutation = input()
 letters = set(word)

@@ -1,5 +1,7 @@
 """Natrij"""
 
+# natrij
+
 h, m, s = map(int, input().split(":"))
 start = 3600 * h + 60 * m + s
 

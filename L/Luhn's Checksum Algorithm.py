@@ -1,5 +1,7 @@
 """Luhn's Checksum Algorithm"""
 
+# luhnchecksum
+
 cases = int(input())
 
 for i in range(cases):

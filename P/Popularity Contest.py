@@ -1,5 +1,7 @@
 """Popularity Contest"""
 
+# popularitycontest
+
 N, M = map(int, input().split())
 friendships = {}
 

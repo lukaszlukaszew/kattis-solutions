@@ -1,5 +1,7 @@
 """Inflation"""
 
+# inflation
+
 items = int(input())
 canisters = sorted(list(map(int, input().split())))
 result = []

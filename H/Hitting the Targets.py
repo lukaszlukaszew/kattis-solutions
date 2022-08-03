@@ -1,5 +1,7 @@
 """Hitting the Targets"""
 
+# hittingtargets
+
 from collections import defaultdict
 
 a = int(input())

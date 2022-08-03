@@ -1,5 +1,7 @@
 """Keep it cool"""
 
+# keepitcool
+
 n, m, s, d = [int(x) for x in input().split()]
 slots = [int(x) for x in input().split()]
 refill = [0 for x in range(s)]

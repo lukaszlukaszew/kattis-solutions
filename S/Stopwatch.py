@@ -1,5 +1,7 @@
 """Stopwatch"""
 
+# stopwatch
+
 presses = int(input())
 
 if presses % 2:

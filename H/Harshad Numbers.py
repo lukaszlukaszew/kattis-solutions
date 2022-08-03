@@ -1,5 +1,7 @@
 """Harshad Numbers"""
 
+# harshadnumbers
+
 num = int(input())
 
 while True:

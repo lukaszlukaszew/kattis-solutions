@@ -1,5 +1,7 @@
 """Paul Eigon"""
 
+# pauleigon
+
 x, *y = map(int, input().split())
 
 if (sum(y) // x) % 2:

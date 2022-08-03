@@ -1,5 +1,7 @@
 """Sibice"""
 
+# sibice
+
 from math import sqrt
 
 N, W, H = map(int, input().split())

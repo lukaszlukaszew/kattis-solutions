@@ -1,5 +1,7 @@
 """Spelling Bee"""
 
+# spellingbee
+
 from sys import stdin
 
 main_word = stdin.readline().rstrip()

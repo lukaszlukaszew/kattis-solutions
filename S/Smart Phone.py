@@ -1,5 +1,7 @@
 """Smart Phone"""
 
+# smartphone
+
 from sys import stdin
 
 cases = int(stdin.readline())

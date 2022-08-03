@@ -1,5 +1,7 @@
 """I Wanna Be The Very Best"""
 
+# iwannabe
+
 pokes, K = [int(x) for x in input().split()]
 stats = {0: {}, 1: {}, 2: {}}
 

@@ -1,5 +1,7 @@
 """Jazz it Up!"""
 
+# jazzitup
+
 from math import sqrt
 
 n = int(input())

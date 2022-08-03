@@ -1,5 +1,7 @@
 """Hot Springs"""
 
+# hotsprings
+
 from sys import stdin
 
 nums = int(stdin.readline())

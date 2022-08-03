@@ -1,5 +1,7 @@
 """Prva"""
 
+# prva
+
 R, C = [int(x) for x in input().split()]
 rows, columns, words = [], [], []
 

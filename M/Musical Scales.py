@@ -1,5 +1,7 @@
 """Musical Scales"""
 
+# musicalscales
+
 notes = ("A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#") * 3
 indices = (0, 2, 4, 5, 7, 9, 11, 12)
 scales, result = {}, []

@@ -1,5 +1,7 @@
 """Line Them Up"""
 
+# lineup
+
 cases = int(input())
 words = []
 increase = []

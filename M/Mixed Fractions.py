@@ -1,5 +1,7 @@
 """Mixed Fractions"""
 
+# mixedfractions
+
 nums = list(map(int, input().split()))
 
 while sum(nums):

@@ -1,5 +1,7 @@
 """Password Hacking"""
 
+# password
+
 count = int(input())
 probabilities, result = [], 0
 

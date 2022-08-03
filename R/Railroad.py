@@ -1,5 +1,7 @@
 """Railroad"""
 
+# railroad2
+
 X, Y = map(int, input().split())
 
 if Y % 2:

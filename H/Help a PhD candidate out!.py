@@ -1,5 +1,7 @@
 """Help a PhD candidate out!"""
 
+# helpaphd
+
 cases = int(input())
 
 for i in range(cases):

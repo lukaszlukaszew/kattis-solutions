@@ -1,5 +1,7 @@
 """iBoard"""
 
+# iboard
+
 from sys import stdin
 
 line = stdin.readline().rstrip()

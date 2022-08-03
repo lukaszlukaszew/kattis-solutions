@@ -1,5 +1,7 @@
 """Soylent"""
 
+# soylent
+
 import math
 
 cases = int(input())

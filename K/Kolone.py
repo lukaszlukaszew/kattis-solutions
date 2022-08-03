@@ -1,5 +1,7 @@
 """Kolone"""
 
+# kolone
+
 lt, rt = [int(x) for x in input().split()]
 
 left = list(input())[::-1]

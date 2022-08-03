@@ -1,5 +1,7 @@
 """Statistics"""
 
+# statistics
+
 import sys
 
 case = 1

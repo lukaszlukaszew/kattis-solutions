@@ -1,5 +1,7 @@
 """Right-of-Way"""
 
+# vajningsplikt
+
 result = "NO"
 
 right = {"South": "East", "East": "North", "North": "West", "West": "South"}

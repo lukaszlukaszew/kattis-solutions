@@ -1,5 +1,7 @@
 """Stacking Cups"""
 
+# cups
+
 cups = int(input())
 result = []
 

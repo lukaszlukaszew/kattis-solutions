@@ -1,5 +1,7 @@
 """Kafkaesque"""
 
+# kafkaesque
+
 signatures = int(input())
 clerks = []
 

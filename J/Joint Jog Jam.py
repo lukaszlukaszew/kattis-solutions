@@ -1,5 +1,7 @@
 """Joint Jog Jam"""
 
+# jointjogjam
+
 from math import sqrt
 
 xsk, ysk, xso, yso, xek, yek, xeo, yeo = map(int, input().split())

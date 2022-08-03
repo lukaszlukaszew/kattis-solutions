@@ -1,5 +1,7 @@
 """Music Your Way"""
 
+# musicyourway
+
 headers = input().split()
 
 songs_count = int(input())

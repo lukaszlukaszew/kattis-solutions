@@ -1,5 +1,7 @@
 """Sretan"""
 
+# sretan
+
 k = int(input())
 x, power, result = 0, 1, ""
 

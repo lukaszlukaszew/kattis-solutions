@@ -1,5 +1,7 @@
 """Odd Gnome"""
 
+# oddgnome
+
 groups = int(input())
 
 for i in range(groups):

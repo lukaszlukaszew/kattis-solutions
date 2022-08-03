@@ -1,5 +1,7 @@
 """Recount"""
 
+# recount
+
 from sys import stdin, stdout
 
 candidates = {}

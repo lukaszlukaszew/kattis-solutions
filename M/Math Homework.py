@@ -1,5 +1,7 @@
 """Math Homework"""
 
+# mathhomework
+
 birds, dogs, cats, legs = [int(x) for x in input().split()]
 cases = []
 

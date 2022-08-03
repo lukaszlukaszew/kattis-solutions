@@ -1,5 +1,7 @@
 """Moving Day"""
 
+# movingday
+
 boxes, V = [int(x) for x in input().split()]
 
 for i in range(boxes):

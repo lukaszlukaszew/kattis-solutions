@@ -1,5 +1,7 @@
 """Simon Says"""
 
+# simonsays
+
 lines = int(input())
 
 for i in range(lines):

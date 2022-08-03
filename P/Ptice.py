@@ -1,5 +1,7 @@
 """Ptice"""
 
+# ptice
+
 N = int(input())
 answers = input()
 

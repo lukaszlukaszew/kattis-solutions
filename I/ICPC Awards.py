@@ -1,5 +1,7 @@
 """ICPC Awards"""
 
+# icpcawards
+
 teams = int(input())
 winners = []
 universities = []

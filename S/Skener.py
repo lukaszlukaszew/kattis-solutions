@@ -1,5 +1,7 @@
 """Skener"""
 
+# skener
+
 r, c, y, x = map(int, input().split())
 
 for i in range(r):

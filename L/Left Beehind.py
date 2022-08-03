@@ -1,5 +1,7 @@
 """Left Beehind"""
 
+# leftbeehind
+
 while True:
     x, y = map(int, input().split())
 

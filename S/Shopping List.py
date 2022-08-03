@@ -1,5 +1,7 @@
 """Shopping List"""
 
+# shoppinglist
+
 from sys import stdin
 
 n, m = [int(x) for x in stdin.readline().split()]

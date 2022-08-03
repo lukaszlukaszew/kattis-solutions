@@ -1,5 +1,7 @@
 """Star Arrangements"""
 
+# stararrangements
+
 S = int(input())
 print(str(S) + ":")
 

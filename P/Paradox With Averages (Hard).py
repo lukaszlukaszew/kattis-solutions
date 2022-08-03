@@ -1,5 +1,7 @@
 """Paradox With Averages (Hard)"""
 
+# averageshard
+
 from sys import stdin
 
 cases = int(stdin.readline())
