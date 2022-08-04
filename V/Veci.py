@@ -1,5 +1,7 @@
 """Veci"""
 
+# veci
+
 from itertools import permutations
 
 number = list(input())

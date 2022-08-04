@@ -1,5 +1,7 @@
 """Wizard of Odds"""
 
+# wizardofodds
+
 N, K = [int(x) for x in input().split()]
 N = N / (2 ** K)
 

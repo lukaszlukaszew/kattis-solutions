@@ -1,5 +1,7 @@
 """The Grand Adventure"""
 
+# thegrandadventure
+
 cases = int(input())
 
 for i in range(cases):

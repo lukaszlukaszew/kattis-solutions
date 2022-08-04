@@ -1,5 +1,7 @@
 """Time Traveling Temperatures"""
 
+# temperature
+
 X, Y = [int(x) for x in input().split()]
 
 if Y == 1 and not X:

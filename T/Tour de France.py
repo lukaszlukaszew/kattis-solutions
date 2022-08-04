@@ -1,5 +1,7 @@
 """Tour de France"""
 
+# tourdefrance
+
 from sys import stdin
 
 while True:

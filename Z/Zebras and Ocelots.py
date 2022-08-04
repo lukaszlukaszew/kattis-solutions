@@ -1,5 +1,7 @@
 """Zebras and Ocelots"""
 
+# zebrasocelots
+
 bells = 0
 pile = int(input())
 

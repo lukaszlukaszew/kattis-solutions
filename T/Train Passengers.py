@@ -1,5 +1,7 @@
 """Train Passengers"""
 
+# trainpassengers
+
 capacity, stations = [int(x) for x in input().split()]
 train, possibility = 0, 1
 

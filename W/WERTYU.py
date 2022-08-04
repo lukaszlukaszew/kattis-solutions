@@ -1,5 +1,7 @@
 """WERTYU"""
 
+# wertyu
+
 from sys import stdin
 
 switch = {

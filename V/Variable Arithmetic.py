@@ -1,5 +1,7 @@
 """Variable Arithmetic"""
 
+# variablearithmetic
+
 variables = {}
 
 while True:

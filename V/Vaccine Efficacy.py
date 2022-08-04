@@ -1,5 +1,7 @@
 """Vaccine Efficacy"""
 
+# vaccineefficacy
+
 from sys import stdin
 from collections import defaultdict
 

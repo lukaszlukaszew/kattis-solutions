@@ -1,5 +1,7 @@
 """The Deal of the Day"""
 
+# thedealoftheday
+
 from itertools import combinations
 from functools import reduce
 

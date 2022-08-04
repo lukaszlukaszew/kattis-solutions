@@ -1,5 +1,7 @@
 """Troll Hunt"""
 
+# trollhunt
+
 from math import ceil
 
 b, k, g = [int(x) for x in input().split()]

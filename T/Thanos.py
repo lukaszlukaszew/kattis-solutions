@@ -1,5 +1,7 @@
 """Thanos"""
 
+# thanos
+
 cases = int(input())
 
 for i in range(cases):

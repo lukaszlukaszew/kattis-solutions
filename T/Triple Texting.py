@@ -1,5 +1,7 @@
 """Triple Texting"""
 
+# tripletexting
+
 line = input()
 words = []
 

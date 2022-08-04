@@ -1,5 +1,7 @@
 """Tower Construction"""
 
+# tornbygge
+
 brick_count = int(input())
 bricks = [int(x) for x in input().split()]
 

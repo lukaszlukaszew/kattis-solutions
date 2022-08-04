@@ -1,5 +1,7 @@
 """Video Speedup"""
 
+# videospeedup
+
 n, p, k = map(int, input().split())
 multi, T = 0, 0
 

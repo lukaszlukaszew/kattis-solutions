@@ -1,5 +1,7 @@
 """Volim"""
 
+# volim
+
 player = int(input())
 questions = int(input())
 boom = 0

@@ -1,5 +1,7 @@
 """This Ain't Your Grandpa's Checkerboard"""
 
+# thisaintyourgrandpascheckerboard
+
 dimension = int(input())
 
 board = {"rows": [], "columns": []}

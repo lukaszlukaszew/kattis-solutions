@@ -1,5 +1,7 @@
 """The Dragon of Loowater"""
 
+# loowater
+
 from sys import stdin
 
 heads, knights = [int(x) for x in stdin.readline().split()]

@@ -1,5 +1,7 @@
 """Vacuumba"""
 
+# vacuumba
+
 from math import sin, cos, radians
 
 cases = int(input())

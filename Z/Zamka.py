@@ -1,5 +1,7 @@
 """Zamka"""
 
+# zamka
+
 minimum = int(input())
 maximum = int(input())
 summary = int(input())

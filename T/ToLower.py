@@ -1,5 +1,7 @@
 """ToLower"""
 
+# tolower
+
 P, T = map(int, input().split())
 counter = []
 

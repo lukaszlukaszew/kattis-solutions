@@ -1,5 +1,7 @@
 """What does the fox say?"""
 
+# whatdoesthefoxsay
+
 cases = int(input())
 
 for i in range(cases):

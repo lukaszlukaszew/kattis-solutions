@@ -1,5 +1,7 @@
 """Tram"""
 
+# tram
+
 from sys import stdin
 
 citizens = int(stdin.readline())

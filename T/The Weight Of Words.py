@@ -1,5 +1,7 @@
 """The Weight Of Words"""
 
+# weightofwords
+
 from string import ascii_lowercase
 
 letters = ascii_lowercase

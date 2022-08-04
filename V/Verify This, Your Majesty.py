@@ -1,5 +1,7 @@
 """Verify This, Your Majesty"""
 
+# queens
+
 from sys import stdin
 
 size = int(stdin.readline())

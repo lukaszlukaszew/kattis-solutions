@@ -1,5 +1,7 @@
 """Vauvau"""
 
+# vauvau
+
 A, B, C, D = [int(x) for x in input().split()]
 heroes = [int(x) for x in input().split()]
 results = {0: "none", 1: "one", 2: "both"}
