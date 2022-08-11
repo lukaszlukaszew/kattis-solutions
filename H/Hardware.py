@@ -1,5 +1,7 @@
 """Hardware"""
 
+# hardware
+
 from sys import stdin
 from string import digits
 

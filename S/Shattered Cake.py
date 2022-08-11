@@ -1,6 +1,6 @@
 """Shattered Cake"""
 
-# Shattered
+# shattered
 
 width = int(input())
 pieces = int(input())
