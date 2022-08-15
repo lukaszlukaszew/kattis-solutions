@@ -26,7 +26,7 @@ for directory in folders_to_search:
 
             if file[:-3] != problem_id:
                 # in case of FileExistsError just check it manually
-                os.rename(f"{os.getcwd()}/{directory}/{file}", f"{os.getcwd()}/{problem_id[0]}/{problem_id}.py")
+                os.rename(f"{os.getcwd()}/{directory}/{file}", f"{os.getcwd()}/{problem_id[0].upper()}/{problem_id}.py")
                 wrong_file_name.add(file)
 
     else:
