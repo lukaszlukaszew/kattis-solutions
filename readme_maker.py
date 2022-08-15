@@ -115,5 +115,5 @@ with open("readme.md", "wt", encoding="utf-8") as handle:
     for (problem_id, title, link, minimum, maximum, difficulty, done) in all_problems:
         if done == "True":
             row = f'[{problem_id}]({link} "{title}") | {title} | {maximum} | {difficulty} |' \
-                  f' [Python 3](../main/{problem_id[0]}/{problem_id}.py)\n '
+                  f' [Python 3](../main/{problem_id[0].upper()}/{problem_id}.py)\n '
             handle.write(row)
