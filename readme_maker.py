@@ -17,16 +17,19 @@ for directory in folders_to_search:
         for file in os.listdir(f"{os.getcwd()}/{directory}"):
             with open(f"{os.getcwd()}/{directory}/{file}", "rt", encoding="utf-8") as opened:
                 for i, line in enumerate(opened.readlines()):
-                    if i == 2 and line.startswith("# "):
-                        problem_id = line.replace("# ", "").strip()
+                    if i == 2 and (line.startswith("# ") or line.startswith("// ")):
+                        problem_id = line.replace("# ", "").replace("// ", "").strip()
                         files.add(problem_id)
                         break
                 else:
                     without_ids.add(file)
 
-            if file[:-3] != problem_id:
+            if file[:file.index(".")] != problem_id:
                 # in case of FileExistsError just check it manually
-                os.rename(f"{os.getcwd()}/{directory}/{file}", f"{os.getcwd()}/{problem_id[0].upper()}/{problem_id}.py")
+                os.rename(
+                    f"{os.getcwd()}/{directory}/{file}",
+                    f'{os.getcwd()}/{problem_id[0].upper()}/{problem_id}{file[file.index("."):]}',
+                )
                 wrong_file_name.add(file)
 
     else:
@@ -107,13 +110,21 @@ points = round(sum(map(lambda x: float(x[4]), problems_done)), 2)
 
 with open("readme.md", "wt", encoding="utf-8") as handle:
     handle.write("# Welcome to the repository of solved challenges from Kattis Problems Archive\n")
-    handle.write(f'### Total number of problems in this repository: {len(problems_done)}\n')
-    handle.write(f'### Total number of points possible to obtain: {points}\n')
-    handle.write(f'### Date of the last update: {date}\n\n\n')
-    handle.write("Problem Id | Problem Title | Points | Difficulty | Solution\n")
-    handle.write("--- | --- | --- | ---- | ---\n")
+    handle.write(f"### Total number of problems in this repository: {len(problems_done)}\n")
+    handle.write(f"### Total number of points possible to obtain: {points}\n")
+    handle.write(f"### Date of the last update: {date}\n\n\n")
+    handle.write("| Problem Id | Problem Title | Points | Difficulty | Solution |\n")
+    handle.write("| --- | --- | --- | ---- | --- |\n")
     for (problem_id, title, link, minimum, maximum, difficulty, done) in all_problems:
         if done == "True":
-            row = f'[{problem_id}]({link} "{title}") | {title} | {maximum} | {difficulty} |' \
-                  f' [Python 3](../main/{problem_id[0].upper()}/{problem_id}.py)\n '
+            if problem_id in {"arithmeticfunctions"}:
+                row = (
+                    f'| [{problem_id}]({link} "{title}") | {title} | {maximum} | {difficulty} |'
+                    f" [C++](../main/{problem_id[0].upper()}/{problem_id}.cpp) |\n "
+                )
+            else:
+                row = (
+                    f'| [{problem_id}]({link} "{title}") | {title} | {maximum} | {difficulty} |'
+                    f" [Python 3](../main/{problem_id[0].upper()}/{problem_id}.py) |\n "
+                )
             handle.write(row)
