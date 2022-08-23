@@ -70,7 +70,7 @@ difficulty = ""
 for problem in problems_html:
     td = problem.find_all("td")
 
-    minimum = td[5].text
+    minimum = td[6].text
 
     for i in ["easy", "medium", "hard"]:
         if minimum.endswith(i):
@@ -79,6 +79,7 @@ for problem in problems_html:
 
     if "-" in minimum:
         minimum, maximum = minimum.split("-")
+
     else:
         maximum = minimum
 
