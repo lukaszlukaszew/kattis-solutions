@@ -110,7 +110,7 @@ date = date.today()
 points = round(sum(map(lambda x: float(x[4]), problems_done)), 2)
 
 with open("readme.md", "wt", encoding="utf-8") as handle:
-    handle.write("# Welcome to the repository of solved challenges from Kattis Problems Archive\n")
+    handle.write("# Welcome to the repository containing solved challenges from Kattis Problems Archive\n")
     handle.write(f"### Total number of problems in this repository: {len(problems_done)}\n")
     handle.write(f"### Total number of points possible to obtain: {points}\n")
     handle.write(f"### Date of the last update: {date}\n\n\n")
