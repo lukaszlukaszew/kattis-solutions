@@ -1,24 +1,24 @@
 # Welcome to the repository containing solved challenges from Kattis Problems Archive
-### Total number of problems in this repository: 598
-### Total number of points possible to obtain: 1227.2
-### Date of the last update: 2022-08-29
+### Total number of problems in this repository: 605
+### Total number of points possible to obtain: 1244.9
+### Date of the last update: 2022-09-01
 
 
 | Problem Id | Problem Title | Points | Difficulty | Solution |
 | --- | --- | --- | ---- | --- |
-| [2048](https://open.kattis.com/problems/2048 "2048") | 2048 | 2.5 | easy | [Python 3](../main/2/2048.py) |
- | [3dprinter](https://open.kattis.com/problems/3dprinter "3D Printed Statues") | 3D Printed Statues | 2.3 | easy | [Python 3](../main/3/3dprinter.py) |
- | [4thought](https://open.kattis.com/problems/4thought "4 thought") | 4 thought | 3.0 | medium | [Python 3](../main/4/4thought.py) |
+| [2048](https://open.kattis.com/problems/2048 "2048") | 2048 | 2.6 | easy | [Python 3](../main/2/2048.py) |
+ | [3dprinter](https://open.kattis.com/problems/3dprinter "3D Printed Statues") | 3D Printed Statues | 2.4 | easy | [Python 3](../main/3/3dprinter.py) |
+ | [4thought](https://open.kattis.com/problems/4thought "4 thought") | 4 thought | 3.1 | medium | [Python 3](../main/4/4thought.py) |
  | [99problems](https://open.kattis.com/problems/99problems "99 Problems") | 99 Problems | 2.0 | easy | [Python 3](../main/9/99problems.py) |
  | [aaah](https://open.kattis.com/problems/aaah "Aaah!") | Aaah! | 1.8 | easy | [Python 3](../main/A/aaah.py) |
- | [abc](https://open.kattis.com/problems/abc "ABC") | ABC | 1.9 | easy | [Python 3](../main/A/abc.py) |
+ | [abc](https://open.kattis.com/problems/abc "ABC") | ABC | 2.0 | easy | [Python 3](../main/A/abc.py) |
  | [aboveaverage](https://open.kattis.com/problems/aboveaverage "Above Average") | Above Average | 2.3 | easy | [Python 3](../main/A/aboveaverage.py) |
- | [classy](https://open.kattis.com/problems/classy "A Classy Problem") | A Classy Problem | 4.0 | medium | [Python 3](../main/C/classy.py) |
+ | [classy](https://open.kattis.com/problems/classy "A Classy Problem") | A Classy Problem | 3.9 | medium | [Python 3](../main/C/classy.py) |
  | [acm](https://open.kattis.com/problems/acm "ACM Contest Scoring") | ACM Contest Scoring | 1.6 | easy | [Python 3](../main/A/acm.py) |
  | [addtwonumbers](https://open.kattis.com/problems/addtwonumbers "Add Two Numbers") | Add Two Numbers | 1.3 | easy | [Python 3](../main/A/addtwonumbers.py) |
  | [different](https://open.kattis.com/problems/different "A Different Problem") | A Different Problem | 3.0 | medium | [Python 3](../main/D/different.py) |
  | [cocktail](https://open.kattis.com/problems/cocktail "A Furious Cocktail") | A Furious Cocktail | 2.2 | easy | [Python 3](../main/C/cocktail.py) |
- | [akcija](https://open.kattis.com/problems/akcija "Akcija") | Akcija | 2.0 | easy | [Python 3](../main/A/akcija.py) |
+ | [akcija](https://open.kattis.com/problems/akcija "Akcija") | Akcija | 2.1 | easy | [Python 3](../main/A/akcija.py) |
  | [aliennumbers](https://open.kattis.com/problems/aliennumbers "Alien Numbers") | Alien Numbers | 1.9 | easy | [Python 3](../main/A/aliennumbers.py) |
  | [listgame](https://open.kattis.com/problems/listgame "A List Game") | A List Game | 3.0 | medium | [Python 3](../main/L/listgame.py) |
  | [allaboutthatbase](https://open.kattis.com/problems/allaboutthatbase "All about that base") | All about that base | 2.7 | easy | [Python 3](../main/A/allaboutthatbase.py) |
@@ -27,7 +27,7 @@
  | [alphabetspam](https://open.kattis.com/problems/alphabetspam "Alphabet Spam") | Alphabet Spam | 1.4 | easy | [Python 3](../main/A/alphabetspam.py) |
  | [artichoke](https://open.kattis.com/problems/artichoke "Amalgamated Artichokes") | Amalgamated Artichokes | 2.5 | easy | [Python 3](../main/A/artichoke.py) |
  | [amsterdamdistance](https://open.kattis.com/problems/amsterdamdistance "Amsterdam Distance") | Amsterdam Distance | 2.5 | easy | [Python 3](../main/A/amsterdamdistance.py) |
- | [anewalphabet](https://open.kattis.com/problems/anewalphabet "A New Alphabet") | A New Alphabet | 1.6 | easy | [Python 3](../main/A/anewalphabet.py) |
+ | [anewalphabet](https://open.kattis.com/problems/anewalphabet "A New Alphabet") | A New Alphabet | 1.7 | easy | [Python 3](../main/A/anewalphabet.py) |
  | [anotherbrick](https://open.kattis.com/problems/anotherbrick "Another Brick in the Wall") | Another Brick in the Wall | 2.0 | easy | [Python 3](../main/A/anotherbrick.py) |
  | [anothercandies](https://open.kattis.com/problems/anothercandies "Another Candies") | Another Candies | 2.8 | medium | [Python 3](../main/A/anothercandies.py) |
  | [anthonyanddiablo](https://open.kattis.com/problems/anthonyanddiablo "Anthony and Diablo") | Anthony and Diablo | 2.8 | medium | [Python 3](../main/A/anthonyanddiablo.py) |
@@ -37,7 +37,7 @@
  | [rationalsequence2](https://open.kattis.com/problems/rationalsequence2 "A Rational Sequence 2") | A Rational Sequence 2 | 1.5 | easy | [Python 3](../main/R/rationalsequence2.py) |
  | [rationalsequence3](https://open.kattis.com/problems/rationalsequence3 "A Rational Sequence (Take 3)") | A Rational Sequence (Take 3) | 1.7 | easy | [Python 3](../main/R/rationalsequence3.py) |
  | [architecture](https://open.kattis.com/problems/architecture "Architecture") | Architecture | 2.7 | easy | [Python 3](../main/A/architecture.py) |
- | [areal](https://open.kattis.com/problems/areal "A Real Challenge") | A Real Challenge | 1.6 | easy | [Python 3](../main/A/areal.py) |
+ | [areal](https://open.kattis.com/problems/areal "A Real Challenge") | A Real Challenge | 1.5 | easy | [Python 3](../main/A/areal.py) |
  | [areyoulistening](https://open.kattis.com/problems/areyoulistening "Are You Listening?") | Are You Listening? | 2.4 | easy | [Python 3](../main/A/areyoulistening.py) |
  | [arithmeticfunctions](https://open.kattis.com/problems/arithmeticfunctions "Arithmetic Functions") | Arithmetic Functions | 1.7 | easy | [C++](../main/A/arithmeticfunctions.cpp) |
  | [armcoordination](https://open.kattis.com/problems/armcoordination "Arm Coordination") | Arm Coordination | 1.7 | easy | [Python 3](../main/A/armcoordination.py) |
@@ -55,21 +55,21 @@
  | [babelfish](https://open.kattis.com/problems/babelfish "Babelfish") | Babelfish | 2.4 | easy | [Python 3](../main/B/babelfish.py) |
  | [babybites](https://open.kattis.com/problems/babybites "Baby Bites") | Baby Bites | 1.8 | easy | [Python 3](../main/B/babybites.py) |
  | [babylonian](https://open.kattis.com/problems/babylonian "Babylonian Numbers") | Babylonian Numbers | 2.0 | easy | [Python 3](../main/B/babylonian.py) |
- | [backspace](https://open.kattis.com/problems/backspace "Backspace") | Backspace | 2.4 | easy | [Python 3](../main/B/backspace.py) |
+ | [backspace](https://open.kattis.com/problems/backspace "Backspace") | Backspace | 2.5 | easy | [Python 3](../main/B/backspace.py) |
  | [baconeggsandspam](https://open.kattis.com/problems/baconeggsandspam "Bacon, Eggs, and Spam") | Bacon, Eggs, and Spam | 1.8 | easy | [Python 3](../main/B/baconeggsandspam.py) |
  | [bard](https://open.kattis.com/problems/bard "Bard") | Bard | 2.4 | easy | [Python 3](../main/B/bard.py) |
- | [basicprogramming1](https://open.kattis.com/problems/basicprogramming1 "Basic Programming 1") | Basic Programming 1 | 3.3 | medium | [Python 3](../main/B/basicprogramming1.py) |
- | [basicprogramming2](https://open.kattis.com/problems/basicprogramming2 "Basic Programming 2") | Basic Programming 2 | 2.9 | medium | [Python 3](../main/B/basicprogramming2.py) |
+ | [basicprogramming1](https://open.kattis.com/problems/basicprogramming1 "Basic Programming 1") | Basic Programming 1 | 3.4 | medium | [Python 3](../main/B/basicprogramming1.py) |
+ | [basicprogramming2](https://open.kattis.com/problems/basicprogramming2 "Basic Programming 2") | Basic Programming 2 | 3.0 | medium | [Python 3](../main/B/basicprogramming2.py) |
  | [basketballoneonone](https://open.kattis.com/problems/basketballoneonone "Basketball One-on-One") | Basketball One-on-One | 1.6 | easy | [Python 3](../main/B/basketballoneonone.py) |
  | [batterup](https://open.kattis.com/problems/batterup "Batter Up") | Batter Up | 1.3 | easy | [Python 3](../main/B/batterup.py) |
  | [battlesimulation](https://open.kattis.com/problems/battlesimulation "Battle Simulation") | Battle Simulation | 2.8 | medium | [Python 3](../main/B/battlesimulation.py) |
- | [beatspread](https://open.kattis.com/problems/beatspread "Beat the Spread!") | Beat the Spread! | 2.5 | easy | [Python 3](../main/B/beatspread.py) |
+ | [beatspread](https://open.kattis.com/problems/beatspread "Beat the Spread!") | Beat the Spread! | 2.4 | easy | [Python 3](../main/B/beatspread.py) |
  | [beavergnaw](https://open.kattis.com/problems/beavergnaw "Beavergnaw") | Beavergnaw | 1.6 | easy | [Python 3](../main/B/beavergnaw.py) |
  | [beehives](https://open.kattis.com/problems/beehives "Beehives") | Beehives | 2.2 | easy | [Python 3](../main/B/beehives.py) |
  | [beekeeper](https://open.kattis.com/problems/beekeeper "Beekeeper") | Beekeeper | 2.5 | easy | [Python 3](../main/B/beekeeper.py) |
  | [bela](https://open.kattis.com/problems/bela "Bela") | Bela | 1.3 | easy | [Python 3](../main/B/bela.py) |
  | [compromise](https://open.kattis.com/problems/compromise "Best Compromise") | Best Compromise | 2.0 | easy | [Python 3](../main/C/compromise.py) |
- | [bestrelayteam](https://open.kattis.com/problems/bestrelayteam "Best Relay Team") | Best Relay Team | 1.7 | easy | [Python 3](../main/B/bestrelayteam.py) |
+ | [bestrelayteam](https://open.kattis.com/problems/bestrelayteam "Best Relay Team") | Best Relay Team | 1.8 | easy | [Python 3](../main/B/bestrelayteam.py) |
  | [betting](https://open.kattis.com/problems/betting "Betting") | Betting | 1.3 | easy | [Python 3](../main/B/betting.py) |
  | [bijele](https://open.kattis.com/problems/bijele "Bijele") | Bijele | 1.4 | easy | [Python 3](../main/B/bijele.py) |
  | [billiard](https://open.kattis.com/problems/billiard "Billiard") | Billiard | 1.7 | easy | [Python 3](../main/B/billiard.py) |
@@ -80,7 +80,7 @@
  | [blackfriday](https://open.kattis.com/problems/blackfriday "Black Friday") | Black Friday | 2.0 | easy | [Python 3](../main/B/blackfriday.py) |
  | [bluetooth](https://open.kattis.com/problems/bluetooth "Blåtand") | Blåtand |  1.9 | easy | [Python 3](../main/B/bluetooth.py) |
  | [boatparts](https://open.kattis.com/problems/boatparts "Boat Parts") | Boat Parts | 1.5 | easy | [Python 3](../main/B/boatparts.py) |
- | [bookingaroom](https://open.kattis.com/problems/bookingaroom "Booking a Room") | Booking a Room | 1.8 | easy | [Python 3](../main/B/bookingaroom.py) |
+ | [bookingaroom](https://open.kattis.com/problems/bookingaroom "Booking a Room") | Booking a Room | 1.9 | easy | [Python 3](../main/B/bookingaroom.py) |
  | [bossbattle](https://open.kattis.com/problems/bossbattle "Boss Battle") | Boss Battle | 1.7 | easy | [Python 3](../main/B/bossbattle.py) |
  | [bottledup](https://open.kattis.com/problems/bottledup "Bottled-Up Feelings") | Bottled-Up Feelings | 2.4 | easy | [Python 3](../main/B/bottledup.py) |
  | [boundingrobots](https://open.kattis.com/problems/boundingrobots "Bounding Robots") | Bounding Robots | 1.6 | easy | [Python 3](../main/B/boundingrobots.py) |
@@ -95,7 +95,7 @@
  | [busnumbers2](https://open.kattis.com/problems/busnumbers2 "Bus Numbers") | Bus Numbers | 2.7 | easy | [Python 3](../main/B/busnumbers2.py) |
  | [busyschedule](https://open.kattis.com/problems/busyschedule "Busy Schedule") | Busy Schedule | 2.2 | easy | [Python 3](../main/B/busyschedule.py) |
  | [calculatingdartscores](https://open.kattis.com/problems/calculatingdartscores "Calculating Dart Scores") | Calculating Dart Scores | 2.5 | easy | [Python 3](../main/C/calculatingdartscores.py) |
- | [calculator](https://open.kattis.com/problems/calculator "Calculator") | Calculator | 3.2 | medium | [Python 3](../main/C/calculator.py) |
+ | [calculator](https://open.kattis.com/problems/calculator "Calculator") | Calculator | 3.3 | medium | [Python 3](../main/C/calculator.py) |
  | [candlebox](https://open.kattis.com/problems/candlebox "Candle Box") | Candle Box | 2.5 | easy | [Python 3](../main/C/candlebox.py) |
  | [candydivision](https://open.kattis.com/problems/candydivision "Candy Division") | Candy Division | 3.5 | medium | [Python 3](../main/C/candydivision.py) |
  | [cardboardcontainer](https://open.kattis.com/problems/cardboardcontainer "Cardboard Container") | Cardboard Container | 2.6 | easy | [Python 3](../main/C/cardboardcontainer.py) |
@@ -103,7 +103,7 @@
  | [carefulascent](https://open.kattis.com/problems/carefulascent "Careful Ascent") | Careful Ascent | 2.0 | easy | [Python 3](../main/C/carefulascent.py) |
  | [carousel](https://open.kattis.com/problems/carousel "Carousel Rides") | Carousel Rides | 2.6 | easy | [Python 3](../main/C/carousel.py) |
  | [cd](https://open.kattis.com/problems/cd "CD") | CD | 5.1 | medium | [Python 3](../main/C/cd.py) |
- | [ceiling](https://open.kattis.com/problems/ceiling "Ceiling Function") | Ceiling Function | 2.2 | easy | [Python 3](../main/C/ceiling.py) |
+ | [ceiling](https://open.kattis.com/problems/ceiling "Ceiling Function") | Ceiling Function | 2.1 | easy | [Python 3](../main/C/ceiling.py) |
  | [cetiri](https://open.kattis.com/problems/cetiri "Cetiri") | Cetiri | 1.7 | easy | [Python 3](../main/C/cetiri.py) |
  | [cetvrta](https://open.kattis.com/problems/cetvrta "Cetvrta") | Cetvrta | 1.4 | easy | [Python 3](../main/C/cetvrta.py) |
  | [chanukah](https://open.kattis.com/problems/chanukah "Chanukah Challenge") | Chanukah Challenge | 1.3 | easy | [Python 3](../main/C/chanukah.py) |
@@ -112,8 +112,9 @@
  | [chocolatedivision](https://open.kattis.com/problems/chocolatedivision "Chocolate Division") | Chocolate Division | 2.4 | easy | [Python 3](../main/C/chocolatedivision.py) |
  | [cinema](https://open.kattis.com/problems/cinema "Cinema Crowds") | Cinema Crowds | 2.2 | easy | [Python 3](../main/C/cinema.py) |
  | [cinema2](https://open.kattis.com/problems/cinema2 "Cinema Crowds 2") | Cinema Crowds 2 | 1.8 | easy | [Python 3](../main/C/cinema2.py) |
+ | [circuitmath](https://open.kattis.com/problems/circuitmath "Circuit Math") | Circuit Math | 2.0 | easy | [Python 3](../main/C/circuitmath.py) |
  | [climbingstairs](https://open.kattis.com/problems/climbingstairs "Climbing Stairs") | Climbing Stairs | 4.0 | medium | [Python 3](../main/C/climbingstairs.py) |
- | [climbingworm](https://open.kattis.com/problems/climbingworm "Climbing Worm") | Climbing Worm | 2.4 | easy | [Python 3](../main/C/climbingworm.py) |
+ | [climbingworm](https://open.kattis.com/problems/climbingworm "Climbing Worm") | Climbing Worm | 2.5 | easy | [Python 3](../main/C/climbingworm.py) |
  | [closingtheloop](https://open.kattis.com/problems/closingtheloop "Closing the Loop") | Closing the Loop | 1.7 | easy | [Python 3](../main/C/closingtheloop.py) |
  | [coconut](https://open.kattis.com/problems/coconut "Coconut Splat") | Coconut Splat | 1.6 | easy | [Python 3](../main/C/coconut.py) |
  | [codecleanups](https://open.kattis.com/problems/codecleanups "Code Cleanups") | Code Cleanups | 2.5 | easy | [Python 3](../main/C/codecleanups.py) |
@@ -142,7 +143,7 @@
  | [cudoviste](https://open.kattis.com/problems/cudoviste "Cudoviste") | Cudoviste | 1.4 | easy | [Python 3](../main/C/cudoviste.py) |
  | [cursethedarkness](https://open.kattis.com/problems/cursethedarkness "Curse the Darkness") | Curse the Darkness | 2.4 | easy | [Python 3](../main/C/cursethedarkness.py) |
  | [curvespeed](https://open.kattis.com/problems/curvespeed "Curve Speed") | Curve Speed | 2.7 | easy | [Python 3](../main/C/curvespeed.py) |
- | [cutinline](https://open.kattis.com/problems/cutinline "Cut in Line") | Cut in Line | 1.8 | easy | [Python 3](../main/C/cutinline.py) |
+ | [cutinline](https://open.kattis.com/problems/cutinline "Cut in Line") | Cut in Line | 1.7 | easy | [Python 3](../main/C/cutinline.py) |
  | [damagedequation](https://open.kattis.com/problems/damagedequation "Damaged Equation") | Damaged Equation | 2.2 | easy | [Python 3](../main/D/damagedequation.py) |
  | [dartscores](https://open.kattis.com/problems/dartscores "Darts") | Darts | 2.3 | easy | [Python 3](../main/D/dartscores.py) |
  | [dasblinkenlights](https://open.kattis.com/problems/dasblinkenlights "Das Blinkenlights") | Das Blinkenlights | 1.7 | easy | [Python 3](../main/D/dasblinkenlights.py) |
@@ -152,11 +153,11 @@
  | [deathtaxes](https://open.kattis.com/problems/deathtaxes "Death and Taxes") | Death and Taxes | 2.9 | medium | [Python 3](../main/D/deathtaxes.py) |
  | [deathknight](https://open.kattis.com/problems/deathknight "Death Knight Hero") | Death Knight Hero | 1.7 | easy | [Python 3](../main/D/deathknight.py) |
  | [deathstar](https://open.kattis.com/problems/deathstar "Deathstar") | Deathstar | 1.8 | easy | [Python 3](../main/D/deathstar.py) |
- | [bubbletea](https://open.kattis.com/problems/bubbletea "Delicious Bubble Tea") | Delicious Bubble Tea | 2.4 | easy | [Python 3](../main/B/bubbletea.py) |
+ | [bubbletea](https://open.kattis.com/problems/bubbletea "Delicious Bubble Tea") | Delicious Bubble Tea | 2.5 | easy | [Python 3](../main/B/bubbletea.py) |
  | [delimitersoup](https://open.kattis.com/problems/delimitersoup "Delimiter Soup") | Delimiter Soup | 2.1 | easy | [Python 3](../main/D/delimitersoup.py) |
  | [detaileddifferences](https://open.kattis.com/problems/detaileddifferences "Detailed Differences") | Detailed Differences | 1.4 | easy | [Python 3](../main/D/detaileddifferences.py) |
  | [dicecup](https://open.kattis.com/problems/dicecup "Dice Cup") | Dice Cup | 1.3 | easy | [Python 3](../main/D/dicecup.py) |
- | [dicegame](https://open.kattis.com/problems/dicegame "Dice Game") | Dice Game | 1.6 | easy | [Python 3](../main/D/dicegame.py) |
+ | [dicegame](https://open.kattis.com/problems/dicegame "Dice Game") | Dice Game | 1.7 | easy | [Python 3](../main/D/dicegame.py) |
  | [differentdistances](https://open.kattis.com/problems/differentdistances "Different Distances") | Different Distances | 1.6 | easy | [Python 3](../main/D/differentdistances.py) |
  | [display](https://open.kattis.com/problems/display "Digital display") | Digital display | 2.2 | easy | [Python 3](../main/D/display.py) |
  | [sifferprodukt](https://open.kattis.com/problems/sifferprodukt "Digit Product") | Digit Product | 1.7 | easy | [Python 3](../main/S/sifferprodukt.py) |
@@ -232,8 +233,8 @@
  | [functionalfun](https://open.kattis.com/problems/functionalfun "Functional Fun") | Functional Fun | 1.9 | easy | [Python 3](../main/F/functionalfun.py) |
  | [fyi](https://open.kattis.com/problems/fyi "FYI") | FYI | 1.3 | easy | [Python 3](../main/F/fyi.py) |
  | [throwns](https://open.kattis.com/problems/throwns "Game of Throwns") | Game of Throwns | 2.8 | medium | [Python 3](../main/T/throwns.py) |
- | [gandalfsspell](https://open.kattis.com/problems/gandalfsspell "Gandalf's Spell") | Gandalf's Spell | 2.4 | easy | [Python 3](../main/G/gandalfsspell.py) |
- | [gcd](https://open.kattis.com/problems/gcd "GCD") | GCD | 1.6 | easy | [Python 3](../main/G/gcd.py) |
+ | [gandalfsspell](https://open.kattis.com/problems/gandalfsspell "Gandalf's Spell") | Gandalf's Spell | 2.6 | easy | [Python 3](../main/G/gandalfsspell.py) |
+ | [gcd](https://open.kattis.com/problems/gcd "GCD") | GCD | 1.7 | easy | [Python 3](../main/G/gcd.py) |
  | [gcvwr](https://open.kattis.com/problems/gcvwr "GCVWR") | GCVWR | 1.3 | easy | [Python 3](../main/G/gcvwr.py) |
  | [gearchanging](https://open.kattis.com/problems/gearchanging "Gear Changing") | Gear Changing | 3.3 | medium | [Python 3](../main/G/gearchanging.py) |
  | [gerrymandering](https://open.kattis.com/problems/gerrymandering "Gerrymandering") | Gerrymandering | 1.6 | easy | [Python 3](../main/G/gerrymandering.py) |
@@ -264,16 +265,16 @@
  | [heliocentric](https://open.kattis.com/problems/heliocentric "Heliocentric") | Heliocentric | 1.8 | easy | [Python 3](../main/H/heliocentric.py) |
  | [hello](https://open.kattis.com/problems/hello "Hello World!") | Hello World! | 1.1 | easy | [Python 3](../main/H/hello.py) |
  | [helpaphd](https://open.kattis.com/problems/helpaphd "Help a PhD candidate out!") | Help a PhD candidate out! | 1.5 | easy | [Python 3](../main/H/helpaphd.py) |
- | [helpme](https://open.kattis.com/problems/helpme "Help Me With The Game") | Help Me With The Game | 2.5 | easy | [Python 3](../main/H/helpme.py) |
+ | [helpme](https://open.kattis.com/problems/helpme "Help Me With The Game") | Help Me With The Game | 2.6 | easy | [Python 3](../main/H/helpme.py) |
  | [herman](https://open.kattis.com/problems/herman "Herman") | Herman | 1.6 | easy | [Python 3](../main/H/herman.py) |
  | [hidden](https://open.kattis.com/problems/hidden "Hidden Password") | Hidden Password | 2.2 | easy | [Python 3](../main/H/hidden.py) |
  | [hidingplaces](https://open.kattis.com/problems/hidingplaces "Hiding Places") | Hiding Places | 1.7 | easy | [Python 3](../main/H/hidingplaces.py) |
  | [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone "Hissing Microphone") | Hissing Microphone | 1.4 | easy | [Python 3](../main/H/hissingmicrophone.py) |
  | [hittingtargets](https://open.kattis.com/problems/hittingtargets "Hitting the Targets") | Hitting the Targets | 1.6 | easy | [Python 3](../main/H/hittingtargets.py) |
- | [heimavinna](https://open.kattis.com/problems/heimavinna "Homework") | Homework |  1.4 | easy | [Python 3](../main/H/heimavinna.py) |
+ | [heimavinna](https://open.kattis.com/problems/heimavinna "Homework") | Homework |  1.5 | easy | [Python 3](../main/H/heimavinna.py) |
  | [apaxianparent](https://open.kattis.com/problems/apaxianparent "Honour Thy (Apaxian) Parent") | Honour Thy (Apaxian) Parent | 1.6 | easy | [Python 3](../main/A/apaxianparent.py) |
  | [hothike](https://open.kattis.com/problems/hothike "Hot Hike") | Hot Hike | 2.0 | easy | [Python 3](../main/H/hothike.py) |
- | [hotsprings](https://open.kattis.com/problems/hotsprings "Hot Springs") | Hot Springs | 2.7 | easy | [Python 3](../main/H/hotsprings.py) |
+ | [hotsprings](https://open.kattis.com/problems/hotsprings "Hot Springs") | Hot Springs | 2.8 | medium | [Python 3](../main/H/hotsprings.py) |
  | [howl](https://open.kattis.com/problems/howl "Howl") | Howl | 1.9 | easy | [Python 3](../main/H/howl.py) |
  | [hydrasheads](https://open.kattis.com/problems/hydrasheads "Hydra's Heads") | Hydra's Heads | 1.7 | easy | [Python 3](../main/H/hydrasheads.py) |
  | [iboard](https://open.kattis.com/problems/iboard "iBoard") | iBoard | 2.3 | easy | [Python 3](../main/I/iboard.py) |
@@ -291,7 +292,7 @@
  | [islands3](https://open.kattis.com/problems/islands3 "Islands") | Islands | 1.8 | easy | [Python 3](../main/I/islands3.py) |
  | [islands](https://open.kattis.com/problems/islands "Islands in the Data Stream") | Islands in the Data Stream | 3.1 | medium | [Python 3](../main/I/islands.py) |
  | [everywhere](https://open.kattis.com/problems/everywhere "I've Been Everywhere, Man") | I've Been Everywhere, Man | 1.4 | easy | [Python 3](../main/E/everywhere.py) |
- | [iwannabe](https://open.kattis.com/problems/iwannabe "I Wanna Be The Very Best") | I Wanna Be The Very Best | 2.5 | easy | [Python 3](../main/I/iwannabe.py) |
+ | [iwannabe](https://open.kattis.com/problems/iwannabe "I Wanna Be The Very Best") | I Wanna Be The Very Best | 2.6 | easy | [Python 3](../main/I/iwannabe.py) |
  | [jabuke](https://open.kattis.com/problems/jabuke "Jabuke") | Jabuke | 1.8 | easy | [Python 3](../main/J/jabuke.py) |
  | [jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition "Jack-O'-Lantern Juxtaposition") | Jack-O'-Lantern Juxtaposition | 1.4 | easy | [Python 3](../main/J/jackolanternjuxtaposition.py) |
  | [janitortroubles](https://open.kattis.com/problems/janitortroubles "Janitor Troubles") | Janitor Troubles | 1.4 | easy | [Python 3](../main/J/janitortroubles.py) |
@@ -331,7 +332,7 @@
  | [locustlocus](https://open.kattis.com/problems/locustlocus "Locust Locus") | Locust Locus | 2.0 | easy | [Python 3](../main/L/locustlocus.py) |
  | [logo](https://open.kattis.com/problems/logo "Logo") | Logo | 2.7 | easy | [Python 3](../main/L/logo.py) |
  | [loorolls](https://open.kattis.com/problems/loorolls "Loo Rolls") | Loo Rolls | 1.6 | easy | [Python 3](../main/L/loorolls.py) |
- | [lostlineup](https://open.kattis.com/problems/lostlineup "Lost Lineup") | Lost Lineup | 1.5 | easy | [Python 3](../main/L/lostlineup.py) |
+ | [lostlineup](https://open.kattis.com/problems/lostlineup "Lost Lineup") | Lost Lineup | 1.6 | easy | [Python 3](../main/L/lostlineup.py) |
  | [luhnchecksum](https://open.kattis.com/problems/luhnchecksum "Luhn's Checksum Algorithm") | Luhn's Checksum Algorithm | 1.6 | easy | [Python 3](../main/L/luhnchecksum.py) |
  | [lumbercraft](https://open.kattis.com/problems/lumbercraft "LumberCraft") | LumberCraft | 5.0 | medium | [Python 3](../main/L/lumbercraft.py) |
  | [magictrick](https://open.kattis.com/problems/magictrick "Magic Trick") | Magic Trick | 1.4 | easy | [Python 3](../main/M/magictrick.py) |
@@ -344,12 +345,14 @@
  | [mathhomework](https://open.kattis.com/problems/mathhomework "Math Homework") | Math Homework | 1.9 | easy | [Python 3](../main/M/mathhomework.py) |
  | [metaprogramming](https://open.kattis.com/problems/metaprogramming "Metaprogramming") | Metaprogramming | 2.0 | easy | [Python 3](../main/M/metaprogramming.py) |
  | [methodicmultiplication](https://open.kattis.com/problems/methodicmultiplication "Methodic Multiplication") | Methodic Multiplication | 1.6 | easy | [Python 3](../main/M/methodicmultiplication.py) |
+ | [mia](https://open.kattis.com/problems/mia "Mia") | Mia | 1.9 | easy | [Python 3](../main/M/mia.py) |
  | [minimumscalar](https://open.kattis.com/problems/minimumscalar "Minimum Scalar Product") | Minimum Scalar Product | 2.2 | easy | [Python 3](../main/M/minimumscalar.py) |
  | [mirror](https://open.kattis.com/problems/mirror "Mirror Images") | Mirror Images | 1.6 | easy | [Python 3](../main/M/mirror.py) |
+ | [misa](https://open.kattis.com/problems/misa "Misa") | Misa | 2.1 | easy | [Python 3](../main/M/misa.py) |
  | [missingnumber](https://open.kattis.com/problems/missingnumber "Missing Number") | Missing Number | 3.3 | medium | [Python 3](../main/M/missingnumber.py) |
  | [missingnumbers](https://open.kattis.com/problems/missingnumbers "Missing Numbers") | Missing Numbers | 1.7 | easy | [Python 3](../main/M/missingnumbers.py) |
  | [mixedfractions](https://open.kattis.com/problems/mixedfractions "Mixed Fractions") | Mixed Fractions | 1.6 | easy | [Python 3](../main/M/mixedfractions.py) |
- | [mjehuric](https://open.kattis.com/problems/mjehuric "Mjehuric") | Mjehuric | 1.6 | easy | [Python 3](../main/M/mjehuric.py) |
+ | [mjehuric](https://open.kattis.com/problems/mjehuric "Mjehuric") | Mjehuric | 1.7 | easy | [Python 3](../main/M/mjehuric.py) |
  | [modulo](https://open.kattis.com/problems/modulo "Modulo") | Modulo | 1.5 | easy | [Python 3](../main/M/modulo.py) |
  | [multiplication](https://open.kattis.com/problems/multiplication "(More) Multiplication") | (More) Multiplication | 2.1 | easy | [Python 3](../main/M/multiplication.py) |
  | [moscowdream](https://open.kattis.com/problems/moscowdream "Moscow Dream") | Moscow Dream | 2.0 | easy | [Python 3](../main/M/moscowdream.py) |
@@ -361,7 +364,7 @@
  | [musicalscales](https://open.kattis.com/problems/musicalscales "Musical Scales") | Musical Scales | 1.7 | easy | [Python 3](../main/M/musicalscales.py) |
  | [musicyourway](https://open.kattis.com/problems/musicyourway "Music Your Way") | Music Your Way | 2.2 | easy | [Python 3](../main/M/musicyourway.py) |
  | [namegeneration](https://open.kattis.com/problems/namegeneration "Name Generation") | Name Generation | 2.0 | easy | [Python 3](../main/N/namegeneration.py) |
- | [nastyhacks](https://open.kattis.com/problems/nastyhacks "Nasty Hacks") | Nasty Hacks | 1.4 | easy | [Python 3](../main/N/nastyhacks.py) |
+ | [nastyhacks](https://open.kattis.com/problems/nastyhacks "Nasty Hacks") | Nasty Hacks | 1.3 | easy | [Python 3](../main/N/nastyhacks.py) |
  | [natjecanje](https://open.kattis.com/problems/natjecanje "Natjecanje") | Natjecanje | 2.4 | easy | [Python 3](../main/N/natjecanje.py) |
  | [natrij](https://open.kattis.com/problems/natrij "Natrij") | Natrij | 2.5 | easy | [Python 3](../main/N/natrij.py) |
  | [nineknights](https://open.kattis.com/problems/nineknights "Nine Knights") | Nine Knights | 1.9 | easy | [Python 3](../main/N/nineknights.py) |
@@ -370,11 +373,11 @@
  | [nop](https://open.kattis.com/problems/nop "NOP") | NOP | 2.0 | easy | [Python 3](../main/N/nop.py) |
  | [notamused](https://open.kattis.com/problems/notamused "Not Amused") | Not Amused | 2.3 | easy | [Python 3](../main/N/notamused.py) |
  | [nothanks](https://open.kattis.com/problems/nothanks "No Thanks!") | No Thanks! | 2.0 | easy | [Python 3](../main/N/nothanks.py) |
- | [npuzzle](https://open.kattis.com/problems/npuzzle "N-Puzzle") | N-Puzzle | 2.0 | easy | [Python 3](../main/N/npuzzle.py) |
+ | [npuzzle](https://open.kattis.com/problems/npuzzle "N-Puzzle") | N-Puzzle | 2.1 | easy | [Python 3](../main/N/npuzzle.py) |
  | [nsum](https://open.kattis.com/problems/nsum "N-sum") | N-sum | 1.4 | easy | [Python 3](../main/N/nsum.py) |
  | [numberfun](https://open.kattis.com/problems/numberfun "Number Fun") | Number Fun | 1.5 | easy | [Python 3](../main/N/numberfun.py) |
  | [oddecho](https://open.kattis.com/problems/oddecho "Odd Echo") | Odd Echo |  1.4 | easy | [Python 3](../main/O/oddecho.py) |
- | [oddgnome](https://open.kattis.com/problems/oddgnome "Odd Gnome") | Odd Gnome | 1.6 | easy | [Python 3](../main/O/oddgnome.py) |
+ | [oddgnome](https://open.kattis.com/problems/oddgnome "Odd Gnome") | Odd Gnome | 1.7 | easy | [Python 3](../main/O/oddgnome.py) |
  | [oddities](https://open.kattis.com/problems/oddities "Oddities") | Oddities | 1.4 | easy | [Python 3](../main/O/oddities.py) |
  | [oddmanout](https://open.kattis.com/problems/oddmanout "Odd Man Out") | Odd Man Out | 1.7 | easy | [Python 3](../main/O/oddmanout.py) |
  | [oktalni](https://open.kattis.com/problems/oktalni "Oktalni") | Oktalni | 1.9 | easy | [Python 3](../main/O/oktalni.py) |
@@ -383,9 +386,9 @@
  | [onechicken](https://open.kattis.com/problems/onechicken "One Chicken Per Person!") | One Chicken Per Person! | 1.8 | easy | [Python 3](../main/O/onechicken.py) |
  | [ornaments](https://open.kattis.com/problems/ornaments "Ornaments") | Ornaments | 2.3 | easy | [Python 3](../main/O/ornaments.py) |
  | [ostgotska](https://open.kattis.com/problems/ostgotska "Östgötska") | Östgötska | 1.8 | easy | [Python 3](../main/O/ostgotska.py) |
- | [overdraft](https://open.kattis.com/problems/overdraft "Overdraft") | Overdraft | 1.8 | easy | [Python 3](../main/O/overdraft.py) |
+ | [overdraft](https://open.kattis.com/problems/overdraft "Overdraft") | Overdraft | 1.7 | easy | [Python 3](../main/O/overdraft.py) |
  | [pachydermpeanutpacking](https://open.kattis.com/problems/pachydermpeanutpacking "Pachyderm Peanut Packing") | Pachyderm Peanut Packing | 1.9 | easy | [Python 3](../main/P/pachydermpeanutpacking.py) |
- | [pairingsocks](https://open.kattis.com/problems/pairingsocks "Pairing Socks") | Pairing Socks | 2.4 | easy | [Python 3](../main/P/pairingsocks.py) |
+ | [pairingsocks](https://open.kattis.com/problems/pairingsocks "Pairing Socks") | Pairing Socks | 2.6 | easy | [Python 3](../main/P/pairingsocks.py) |
  | [averageseasy](https://open.kattis.com/problems/averageseasy "Paradox With Averages") | Paradox With Averages | 2.7 | easy | [Python 3](../main/A/averageseasy.py) |
  | [averageshard](https://open.kattis.com/problems/averageshard "Paradox With Averages (Hard)") | Paradox With Averages (Hard) | 2.6 | easy | [Python 3](../main/A/averageshard.py) |
  | [parket](https://open.kattis.com/problems/parket "Parket") | Parket | 2.4 | easy | [Python 3](../main/P/parket.py) |
@@ -395,7 +398,7 @@
  | [password](https://open.kattis.com/problems/password "Password Hacking") | Password Hacking | 2.3 | easy | [Python 3](../main/P/password.py) |
  | [pathtracing](https://open.kattis.com/problems/pathtracing "Path Tracing") | Path Tracing | 3.4 | medium | [Python 3](../main/P/pathtracing.py) |
  | [patuljci](https://open.kattis.com/problems/patuljci "Patuljci") | Patuljci | 1.8 | easy | [Python 3](../main/P/patuljci.py) |
- | [pauleigon](https://open.kattis.com/problems/pauleigon "Paul Eigon") | Paul Eigon | 1.7 | easy | [Python 3](../main/P/pauleigon.py) |
+ | [pauleigon](https://open.kattis.com/problems/pauleigon "Paul Eigon") | Paul Eigon | 1.8 | easy | [Python 3](../main/P/pauleigon.py) |
  | [peasoup](https://open.kattis.com/problems/peasoup "Pea Soup and Pancakes") | Pea Soup and Pancakes | 2.1 | easy | [Python 3](../main/P/peasoup.py) |
  | [peg](https://open.kattis.com/problems/peg "Peg") | Peg | 1.9 | easy | [Python 3](../main/P/peg.py) |
  | [peragrams](https://open.kattis.com/problems/peragrams "Peragrams") | Peragrams | 1.8 | easy | [Python 3](../main/P/peragrams.py) |
@@ -425,6 +428,7 @@
  | [printingcosts](https://open.kattis.com/problems/printingcosts "Printing Costs") | Printing Costs | 2.1 | easy | [Python 3](../main/P/printingcosts.py) |
  | [pripreme](https://open.kattis.com/problems/pripreme "Pripreme") | Pripreme | 2.6 | easy | [Python 3](../main/P/pripreme.py) |
  | [problemclassification](https://open.kattis.com/problems/problemclassification "Problem Classification") | Problem Classification | 2.9 | medium | [Python 3](../main/P/problemclassification.py) |
+ | [progressivescramble](https://open.kattis.com/problems/progressivescramble "Progressive Scramble") | Progressive Scramble | 2.0 | easy | [Python 3](../main/P/progressivescramble.py) |
  | [proofs](https://open.kattis.com/problems/proofs "Proofs") | Proofs | 2.2 | easy | [Python 3](../main/P/proofs.py) |
  | [provincesandgold](https://open.kattis.com/problems/provincesandgold "Provinces and Gold") | Provinces and Gold | 1.4 | easy | [Python 3](../main/P/provincesandgold.py) |
  | [prozor](https://open.kattis.com/problems/prozor "Prozor") | Prozor | 1.7 | easy | [Python 3](../main/P/prozor.py) |
@@ -433,12 +437,12 @@
  | [ptice](https://open.kattis.com/problems/ptice "Ptice") | Ptice | 1.6 | easy | [Python 3](../main/P/ptice.py) |
  | [putovanje](https://open.kattis.com/problems/putovanje "Putovanje") | Putovanje | 2.5 | easy | [Python 3](../main/P/putovanje.py) |
  | [pyramidkonstruktion](https://open.kattis.com/problems/pyramidkonstruktion "Pyramid Construction") | Pyramid Construction | 4.6 | medium | [Python 3](../main/P/pyramidkonstruktion.py) |
- | [quadrant](https://open.kattis.com/problems/quadrant "Quadrant Selection") | Quadrant Selection | 1.3 | easy | [Python 3](../main/Q/quadrant.py) |
- | [qaly](https://open.kattis.com/problems/qaly "Quality-Adjusted Life-Year") | Quality-Adjusted Life-Year | 1.3 | easy | [Python 3](../main/Q/qaly.py) |
+ | [quadrant](https://open.kattis.com/problems/quadrant "Quadrant Selection") | Quadrant Selection | 1.4 | easy | [Python 3](../main/Q/quadrant.py) |
+ | [qaly](https://open.kattis.com/problems/qaly "Quality-Adjusted Life-Year") | Quality-Adjusted Life-Year | 1.4 | easy | [Python 3](../main/Q/qaly.py) |
  | [quickbrownfox](https://open.kattis.com/problems/quickbrownfox "Quick Brown Fox") | Quick Brown Fox | 1.8 | easy | [Python 3](../main/Q/quickbrownfox.py) |
  | [quickestimate](https://open.kattis.com/problems/quickestimate "Quick Estimates") | Quick Estimates | 1.5 | easy | [Python 3](../main/Q/quickestimate.py) |
  | [quiteaproblem](https://open.kattis.com/problems/quiteaproblem "Quite a Problem") | Quite a Problem | 2.2 | easy | [Python 3](../main/Q/quiteaproblem.py) |
- | [r2](https://open.kattis.com/problems/r2 "R2") | R2 | 1.3 | easy | [Python 3](../main/R/r2.py) |
+ | [r2](https://open.kattis.com/problems/r2 "R2") | R2 | 1.5 | easy | [Python 3](../main/R/r2.py) |
  | [racingalphabet](https://open.kattis.com/problems/racingalphabet "Racing Around the Alphabet") | Racing Around the Alphabet | 1.5 | easy | [Python 3](../main/R/racingalphabet.py) |
  | [commercials](https://open.kattis.com/problems/commercials "Radio Commercials") | Radio Commercials | 2.0 | easy | [Python 3](../main/C/commercials.py) |
  | [raggedright](https://open.kattis.com/problems/raggedright "Ragged Right") | Ragged Right | 1.8 | easy | [Python 3](../main/R/raggedright.py) |
@@ -450,21 +454,22 @@
  | [redrover](https://open.kattis.com/problems/redrover "Red Rover") | Red Rover | 1.9 | easy | [Python 3](../main/R/redrover.py) |
  | [refrigerator](https://open.kattis.com/problems/refrigerator "Refrigerator Transport") | Refrigerator Transport |  2.5 | easy | [Python 3](../main/R/refrigerator.py) |
  | [relocation](https://open.kattis.com/problems/relocation "Relocation") | Relocation | 1.4 | easy | [Python 3](../main/R/relocation.py) |
- | [remorse](https://open.kattis.com/problems/remorse "ReMorse") | ReMorse | 2.0 | easy | [Python 3](../main/R/remorse.py) |
- | [reseto](https://open.kattis.com/problems/reseto "Reseto") | Reseto | 2.7 | easy | [Python 3](../main/R/reseto.py) |
- | [ofugsnuid](https://open.kattis.com/problems/ofugsnuid "Reverse") | Reverse |  1.6 | easy | [Python 3](../main/O/ofugsnuid.py) |
+ | [remorse](https://open.kattis.com/problems/remorse "ReMorse") | ReMorse | 2.1 | easy | [Python 3](../main/R/remorse.py) |
+ | [reseto](https://open.kattis.com/problems/reseto "Reseto") | Reseto | 2.6 | easy | [Python 3](../main/R/reseto.py) |
+ | [ofugsnuid](https://open.kattis.com/problems/ofugsnuid "Reverse") | Reverse |  1.5 | easy | [Python 3](../main/O/ofugsnuid.py) |
  | [reversebinary](https://open.kattis.com/problems/reversebinary "Reversed Binary Numbers") | Reversed Binary Numbers | 1.4 | easy | [Python 3](../main/R/reversebinary.py) |
  | [reverserot](https://open.kattis.com/problems/reverserot "Reverse Rot") | Reverse Rot | 1.7 | easy | [Python 3](../main/R/reverserot.py) |
  | [rhyming](https://open.kattis.com/problems/rhyming "Rhyming Slang") | Rhyming Slang | 2.6 | easy | [Python 3](../main/R/rhyming.py) |
  | [vajningsplikt](https://open.kattis.com/problems/vajningsplikt "Right-of-Way") | Right-of-Way | 2.1 | easy | [Python 3](../main/V/vajningsplikt.py) |
  | [rijeci](https://open.kattis.com/problems/rijeci "Riječi") | Riječi | 1.6 | easy | [Python 3](../main/R/rijeci.py) |
  | [rings2](https://open.kattis.com/problems/rings2 "Rings") | Rings | 3.7 | medium | [Python 3](../main/R/rings2.py) |
- | [romans](https://open.kattis.com/problems/romans "Roaming Romans") | Roaming Romans | 1.5 | easy | [Python 3](../main/R/romans.py) |
+ | [romans](https://open.kattis.com/problems/romans "Roaming Romans") | Roaming Romans | 1.6 | easy | [Python 3](../main/R/romans.py) |
  | [rollcall](https://open.kattis.com/problems/rollcall "Roll Call") | Roll Call | 2.5 | easy | [Python 3](../main/R/rollcall.py) |
+ | [roundedbuttons](https://open.kattis.com/problems/roundedbuttons "Rounded Buttons") | Rounded Buttons | 2.8 | medium | [Python 3](../main/R/roundedbuttons.py) |
  | [runlengthencodingrun](https://open.kattis.com/problems/runlengthencodingrun "Run-Length Encoding, Run!") | Run-Length Encoding, Run! | 1.9 | easy | [Python 3](../main/R/runlengthencodingrun.py) |
  | [safehouses](https://open.kattis.com/problems/safehouses "Safe Houses") | Safe Houses | 2.6 | easy | [Python 3](../main/S/safehouses.py) |
  | [sanic](https://open.kattis.com/problems/sanic "Sanic") | Sanic | 2.4 | easy | [Python 3](../main/S/sanic.py) |
- | [santaklas](https://open.kattis.com/problems/santaklas "Santa Klas") | Santa Klas | 2.5 | easy | [Python 3](../main/S/santaklas.py) |
+ | [santaklas](https://open.kattis.com/problems/santaklas "Santa Klas") | Santa Klas | 2.6 | easy | [Python 3](../main/S/santaklas.py) |
  | [savingdaylight](https://open.kattis.com/problems/savingdaylight "Saving Daylight") | Saving Daylight | 2.1 | easy | [Python 3](../main/S/savingdaylight.py) |
  | [savingforretirement](https://open.kattis.com/problems/savingforretirement "Saving For Retirement") | Saving For Retirement | 1.9 | easy | [Python 3](../main/S/savingforretirement.py) |
  | [princesspeach](https://open.kattis.com/problems/princesspeach "Saving Princess Peach") | Saving Princess Peach | 2.2 | easy | [Python 3](../main/P/princesspeach.py) |
@@ -480,13 +485,13 @@
  | [amoebas](https://open.kattis.com/problems/amoebas "Sheba's Amoebas") | Sheba's Amoebas | 1.8 | easy | [Python 3](../main/A/amoebas.py) |
  | [shiritori](https://open.kattis.com/problems/shiritori "Shiritori") | Shiritori | 2.5 | easy | [Python 3](../main/S/shiritori.py) |
  | [shopaholic](https://open.kattis.com/problems/shopaholic "Shopaholic") | Shopaholic | 2.4 | easy | [Python 3](../main/S/shopaholic.py) |
- | [shoppinglist](https://open.kattis.com/problems/shoppinglist "Shopping List") | Shopping List | 3.4 | medium | [Python 3](../main/S/shoppinglist.py) |
+ | [shoppinglist](https://open.kattis.com/problems/shoppinglist "Shopping List") | Shopping List | 3.5 | medium | [Python 3](../main/S/shoppinglist.py) |
  | [shoppinglisteasy](https://open.kattis.com/problems/shoppinglisteasy "Shopping List (Easy)") | Shopping List (Easy) | 1.9 | easy | [Python 3](../main/S/shoppinglisteasy.py) |
  | [sibice](https://open.kattis.com/problems/sibice "Sibice") | Sibice | 1.4 | easy | [Python 3](../main/S/sibice.py) |
- | [triangle](https://open.kattis.com/problems/triangle "Sierpiński Circumference") | Sierpiński Circumference | 2.7 | easy | [Python 3](../main/T/triangle.py) |
+ | [triangle](https://open.kattis.com/problems/triangle "Sierpiński Circumference") | Sierpiński Circumference | 2.6 | easy | [Python 3](../main/T/triangle.py) |
  | [simone](https://open.kattis.com/problems/simone "Simone") | Simone | 2.0 | easy | [Python 3](../main/S/simone.py) |
  | [simon](https://open.kattis.com/problems/simon "Simon Says") | Simon Says | 2.7 | easy | [Python 3](../main/S/simon.py) |
- | [simonsays](https://open.kattis.com/problems/simonsays "Simon Says") | Simon Says | 1.6 | easy | [Python 3](../main/S/simonsays.py) |
+ | [simonsays](https://open.kattis.com/problems/simonsays "Simon Says") | Simon Says | 1.5 | easy | [Python 3](../main/S/simonsays.py) |
  | [simpleaddition](https://open.kattis.com/problems/simpleaddition "Simple Addition") | Simple Addition | 1.9 | easy | [Python 3](../main/S/simpleaddition.py) |
  | [simplicity](https://open.kattis.com/problems/simplicity "Simplicity") | Simplicity | 2.8 | medium | [Python 3](../main/S/simplicity.py) |
  | [sjecista](https://open.kattis.com/problems/sjecista "Sjecista") | Sjecista | 1.8 | easy | [Python 3](../main/S/sjecista.py) |
@@ -502,29 +507,29 @@
  | [snapperhard](https://open.kattis.com/problems/snapperhard "Snapper Chain (Hard)") | Snapper Chain (Hard) | 2.3 | easy | [Python 3](../main/S/snapperhard.py) |
  | [socialdistancing2](https://open.kattis.com/problems/socialdistancing2 "Social Distancing") | Social Distancing | 1.8 | easy | [Python 3](../main/S/socialdistancing2.py) |
  | [socialrunning](https://open.kattis.com/problems/socialrunning "Social running") | Social running | 2.1 | easy | [Python 3](../main/S/socialrunning.py) |
- | [sodaslurper](https://open.kattis.com/problems/sodaslurper "Soda Slurper") | Soda Slurper | 1.6 | easy | [Python 3](../main/S/sodaslurper.py) |
+ | [sodaslurper](https://open.kattis.com/problems/sodaslurper "Soda Slurper") | Soda Slurper | 1.7 | easy | [Python 3](../main/S/sodaslurper.py) |
  | [softpasswords](https://open.kattis.com/problems/softpasswords "Soft Passwords") | Soft Passwords | 2.5 | easy | [Python 3](../main/S/softpasswords.py) |
  | [sok](https://open.kattis.com/problems/sok "Sok") | Sok | 1.7 | easy | [Python 3](../main/S/sok.py) |
  | [carrots](https://open.kattis.com/problems/carrots "Solving for Carrots") | Solving for Carrots | 1.4 | easy | [Python 3](../main/C/carrots.py) |
  | [somesum](https://open.kattis.com/problems/somesum "Some Sum") | Some Sum | 1.9 | easy | [Python 3](../main/S/somesum.py) |
  | [sortofsorting](https://open.kattis.com/problems/sortofsorting "Sort of Sorting") | Sort of Sorting | 2.1 | easy | [Python 3](../main/S/sortofsorting.py) |
- | [sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers "Sort Two Numbers") | Sort Two Numbers | 1.4 | easy | [Python 3](../main/S/sorttwonumbers.py) |
+ | [sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers "Sort Two Numbers") | Sort Two Numbers | 1.3 | easy | [Python 3](../main/S/sorttwonumbers.py) |
  | [soundex](https://open.kattis.com/problems/soundex "Soundex") | Soundex | 2.6 | easy | [Python 3](../main/S/soundex.py) |
  | [soylent](https://open.kattis.com/problems/soylent "Soylent") | Soylent | 1.7 | easy | [Python 3](../main/S/soylent.py) |
  | [spavanac](https://open.kattis.com/problems/spavanac "Spavanac") | Spavanac | 1.4 | easy | [Python 3](../main/S/spavanac.py) |
  | [speeding](https://open.kattis.com/problems/speeding "Speeding") | Speeding | 1.5 | easy | [Python 3](../main/S/speeding.py) |
  | [speedlimit](https://open.kattis.com/problems/speedlimit "Speed Limit") | Speed Limit | 1.5 | easy | [Python 3](../main/S/speedlimit.py) |
  | [spellingbee](https://open.kattis.com/problems/spellingbee "Spelling Bee") | Spelling Bee | 1.9 | easy | [Python 3](../main/S/spellingbee.py) |
- | [squarepeg](https://open.kattis.com/problems/squarepeg "Square Peg") | Square Peg | 1.6 | easy | [Python 3](../main/S/squarepeg.py) |
- | [squarepegs](https://open.kattis.com/problems/squarepegs "Square Peg in a Round Hole") | Square Peg in a Round Hole | 2.8 | medium | [Python 3](../main/S/squarepegs.py) |
+ | [squarepeg](https://open.kattis.com/problems/squarepeg "Square Peg") | Square Peg | 1.5 | easy | [Python 3](../main/S/squarepeg.py) |
+ | [squarepegs](https://open.kattis.com/problems/squarepegs "Square Peg in a Round Hole") | Square Peg in a Round Hole | 2.9 | medium | [Python 3](../main/S/squarepegs.py) |
  | [sretan](https://open.kattis.com/problems/sretan "Sretan") | Sretan | 2.8 | medium | [Python 3](../main/S/sretan.py) |
  | [cups](https://open.kattis.com/problems/cups "Stacking Cups") | Stacking Cups | 1.6 | easy | [Python 3](../main/C/cups.py) |
  | [zanzibar](https://open.kattis.com/problems/zanzibar "Stand on Zanzibar") | Stand on Zanzibar | 1.4 | easy | [Python 3](../main/Z/zanzibar.py) |
  | [stararrangements](https://open.kattis.com/problems/stararrangements "Star Arrangements") | Star Arrangements | 1.7 | easy | [Python 3](../main/S/stararrangements.py) |
- | [statistics](https://open.kattis.com/problems/statistics "Statistics") | Statistics | 1.9 | easy | [Python 3](../main/S/statistics.py) |
+ | [statistics](https://open.kattis.com/problems/statistics "Statistics") | Statistics | 2.0 | easy | [Python 3](../main/S/statistics.py) |
  | [stickysituation](https://open.kattis.com/problems/stickysituation "Sticky Situation") | Sticky Situation | 2.6 | easy | [Python 3](../main/S/stickysituation.py) |
  | [stopwatch](https://open.kattis.com/problems/stopwatch "Stopwatch") | Stopwatch | 1.4 | easy | [Python 3](../main/S/stopwatch.py) |
- | [timeloop](https://open.kattis.com/problems/timeloop "Stuck In A Time Loop") | Stuck In A Time Loop | 1.5 | easy | [Python 3](../main/T/timeloop.py) |
+ | [timeloop](https://open.kattis.com/problems/timeloop "Stuck In A Time Loop") | Stuck In A Time Loop | 1.4 | easy | [Python 3](../main/T/timeloop.py) |
  | [sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem "Sum Kind of Problem") | Sum Kind of Problem | 1.5 | easy | [Python 3](../main/S/sumkindofproblem.py) |
  | [sumoftheothers](https://open.kattis.com/problems/sumoftheothers "Sum of the Others") | Sum of the Others | 2.2 | easy | [Python 3](../main/S/sumoftheothers.py) |
  | [sumsquareddigits](https://open.kattis.com/problems/sumsquareddigits "Sum Squared Digits Function") | Sum Squared Digits Function | 1.5 | easy | [Python 3](../main/S/sumsquareddigits.py) |
@@ -545,6 +550,7 @@
  | [thanos](https://open.kattis.com/problems/thanos "Thanos") | Thanos | 2.3 | easy | [Python 3](../main/T/thanos.py) |
  | [humancannonball2](https://open.kattis.com/problems/humancannonball2 "The Amazing Human Cannonball") | The Amazing Human Cannonball | 1.5 | easy | [Python 3](../main/H/humancannonball2.py) |
  | [thebackslashproblem](https://open.kattis.com/problems/thebackslashproblem "The Backslash Problem") | The Backslash Problem | 2.3 | easy | [Python 3](../main/T/thebackslashproblem.py) |
+ | [ada](https://open.kattis.com/problems/ada "The Calculus of Ada") | The Calculus of Ada | 2.4 | easy | [Python 3](../main/A/ada.py) |
  | [thedealoftheday](https://open.kattis.com/problems/thedealoftheday "The Deal of the Day") | The Deal of the Day | 2.1 | easy | [Python 3](../main/T/thedealoftheday.py) |
  | [loowater](https://open.kattis.com/problems/loowater "The Dragon of Loowater") | The Dragon of Loowater | 3.1 | medium | [Python 3](../main/L/loowater.py) |
  | [easiest](https://open.kattis.com/problems/easiest "The Easiest Problem Is This One") | The Easiest Problem Is This One | 1.6 | easy | [Python 3](../main/E/easiest.py) |
@@ -559,10 +565,11 @@
  | [temperature](https://open.kattis.com/problems/temperature "Time Travelling Temperatures") | Time Travelling Temperatures | 2.1 | easy | [Python 3](../main/T/temperature.py) |
  | [toflur](https://open.kattis.com/problems/toflur "Töflur") | Töflur | 2.4 | easy | [Python 3](../main/T/toflur.py) |
  | [toilet](https://open.kattis.com/problems/toilet "Toilet Seat") | Toilet Seat | 2.1 | easy | [Python 3](../main/T/toilet.py) |
- | [tolower](https://open.kattis.com/problems/tolower "ToLower") | ToLower | 2.2 | easy | [Python 3](../main/T/tolower.py) |
+ | [tolower](https://open.kattis.com/problems/tolower "ToLower") | ToLower | 2.1 | easy | [Python 3](../main/T/tolower.py) |
  | [tourdefrance](https://open.kattis.com/problems/tourdefrance "Tour de France") | Tour de France | 2.7 | easy | [Python 3](../main/T/tourdefrance.py) |
  | [tornbygge](https://open.kattis.com/problems/tornbygge "Tower Construction") | Tower Construction | 1.7 | easy | [Python 3](../main/T/tornbygge.py) |
  | [trackingshares](https://open.kattis.com/problems/trackingshares "Tracking Shares") | Tracking Shares | 2.1 | easy | [Python 3](../main/T/trackingshares.py) |
+ | [tracksmoothing](https://open.kattis.com/problems/tracksmoothing "Track Smoothing") | Track Smoothing | 1.8 | easy | [Python 3](../main/T/tracksmoothing.py) |
  | [trainboarding](https://open.kattis.com/problems/trainboarding "Train Boarding") | Train Boarding | 3.5 | medium | [Python 3](../main/T/trainboarding.py) |
  | [trainpassengers](https://open.kattis.com/problems/trainpassengers "Train Passengers") | Train Passengers | 2.2 | easy | [Python 3](../main/T/trainpassengers.py) |
  | [tram](https://open.kattis.com/problems/tram "Tram") | Tram | 2.1 | easy | [Python 3](../main/T/tram.py) |
@@ -573,7 +580,7 @@
  | [trik](https://open.kattis.com/problems/trik "Trik") | Trik | 1.4 | easy | [Python 3](../main/T/trik.py) |
  | [tripletexting](https://open.kattis.com/problems/tripletexting "Triple Texting") | Triple Texting | 1.6 | easy | [Python 3](../main/T/tripletexting.py) |
  | [trollhunt](https://open.kattis.com/problems/trollhunt "Troll Hunt") | Troll Hunt | 2.4 | easy | [Python 3](../main/T/trollhunt.py) |
- | [turtlemaster](https://open.kattis.com/problems/turtlemaster "Turtle Master") | Turtle Master | 2.8 | medium | [Python 3](../main/T/turtlemaster.py) |
+ | [turtlemaster](https://open.kattis.com/problems/turtlemaster "Turtle Master") | Turtle Master | 2.9 | medium | [Python 3](../main/T/turtlemaster.py) |
  | [twosum](https://open.kattis.com/problems/twosum "Two-sum") | Two-sum | 1.4 | easy | [Python 3](../main/T/twosum.py) |
  | [ultimatebinarywatch](https://open.kattis.com/problems/ultimatebinarywatch "Ultimate Binary Watch") | Ultimate Binary Watch | 1.5 | easy | [Python 3](../main/U/ultimatebinarywatch.py) |
  | [zoo](https://open.kattis.com/problems/zoo "Un-bear-able Zoo") | Un-bear-able Zoo | 1.9 | easy | [Python 3](../main/Z/zoo.py) |
@@ -583,7 +590,7 @@
  | [variablearithmetic](https://open.kattis.com/problems/variablearithmetic "Variable Arithmetic") | Variable Arithmetic | 2.5 | easy | [Python 3](../main/V/variablearithmetic.py) |
  | [vauvau](https://open.kattis.com/problems/vauvau "Vauvau") | Vauvau | 1.9 | easy | [Python 3](../main/V/vauvau.py) |
  | [veci](https://open.kattis.com/problems/veci "Veci") | Veci | 1.8 | easy | [Python 3](../main/V/veci.py) |
- | [queens](https://open.kattis.com/problems/queens "Verify This, Your Majesty") | Verify This, Your Majesty | 2.8 | medium | [Python 3](../main/Q/queens.py) |
+ | [queens](https://open.kattis.com/problems/queens "Verify This, Your Majesty") | Verify This, Your Majesty | 2.9 | medium | [Python 3](../main/Q/queens.py) |
  | [videospeedup](https://open.kattis.com/problems/videospeedup "Video Speedup") | Video Speedup | 1.9 | easy | [Python 3](../main/V/videospeedup.py) |
  | [volim](https://open.kattis.com/problems/volim "Volim") | Volim | 1.6 | easy | [Python 3](../main/V/volim.py) |
  | [warehouse](https://open.kattis.com/problems/warehouse "Warehouse") | Warehouse | 2.1 | easy | [Python 3](../main/W/warehouse.py) |
